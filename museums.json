@@ -1,0 +1,6106 @@
+[
+ {
+  "k": "louvre",
+  "q": "Q19675",
+  "c": "FR",
+  "ko": "루브르 박물관",
+  "en": "Louvre",
+  "n": 4901
+ },
+ {
+  "k": "orsay",
+  "q": "Q23402",
+  "c": "FR",
+  "ko": "오르세 미술관",
+  "en": "Musée d'Orsay",
+  "n": 1835
+ },
+ {
+  "k": "orangerie",
+  "q": "Q726781",
+  "c": "FR",
+  "ko": "오랑주리 미술관",
+  "en": "Musée de l'Orangerie",
+  "n": 16
+ },
+ {
+  "k": "ng",
+  "q": "Q180788",
+  "c": "GB",
+  "ko": "내셔널 갤러리",
+  "en": "National Gallery",
+  "n": 3986
+ },
+ {
+  "k": "british",
+  "q": "Q6373",
+  "c": "GB",
+  "ko": "대영박물관",
+  "en": "British Museum",
+  "n": 107
+ },
+ {
+  "k": "tate",
+  "q": "Q195436",
+  "c": "GB",
+  "ko": "테이트 브리튼",
+  "en": "Tate Britain",
+  "n": 102
+ },
+ {
+  "k": "scot",
+  "q": "Q942713",
+  "c": "GB",
+  "ko": "스코틀랜드 국립미술관",
+  "en": "Scottish National Gallery",
+  "n": 110
+ },
+ {
+  "k": "rijks",
+  "q": "Q190804",
+  "c": "NL",
+  "ko": "암스테르담 국립미술관",
+  "en": "Rijksmuseum",
+  "n": 5364
+ },
+ {
+  "k": "vangogh",
+  "q": "Q224124",
+  "c": "NL",
+  "ko": "반 고흐 미술관",
+  "en": "Van Gogh Museum",
+  "n": 631
+ },
+ {
+  "k": "maurits",
+  "q": "Q221092",
+  "c": "NL",
+  "ko": "마우리츠하위스",
+  "en": "Mauritshuis",
+  "n": 906
+ },
+ {
+  "k": "kroller",
+  "q": "Q1051928",
+  "c": "NL",
+  "ko": "크뢸러뮐러 미술관",
+  "en": "Kröller-Müller Museum",
+  "n": 284
+ },
+ {
+  "k": "uffizi",
+  "q": "Q51252",
+  "c": "IT",
+  "ko": "우피치 미술관",
+  "en": "Uffizi",
+  "n": 797
+ },
+ {
+  "k": "brera",
+  "q": "Q150066",
+  "c": "IT",
+  "ko": "브레라 미술관",
+  "en": "Pinacoteca di Brera",
+  "n": 217
+ },
+ {
+  "k": "prado",
+  "q": "Q160112",
+  "c": "ES",
+  "ko": "프라도 미술관",
+  "en": "Museo del Prado",
+  "n": 3973
+ },
+ {
+  "k": "thyssen",
+  "q": "Q176251",
+  "c": "ES",
+  "ko": "티센보르네미사 미술관",
+  "en": "Thyssen-Bornemisza",
+  "n": 611
+ },
+ {
+  "k": "alte",
+  "q": "Q154568",
+  "c": "DE",
+  "ko": "알테 피나코테크",
+  "en": "Alte Pinakothek",
+  "n": 154
+ },
+ {
+  "k": "staedel",
+  "q": "Q163804",
+  "c": "DE",
+  "ko": "슈테델 미술관",
+  "en": "Städel Museum",
+  "n": 1074
+ },
+ {
+  "k": "gemaelde",
+  "q": "Q165631",
+  "c": "DE",
+  "ko": "베를린 회화관",
+  "en": "Gemäldegalerie Berlin",
+  "n": 2068
+ },
+ {
+  "k": "khm",
+  "q": "Q95569",
+  "c": "AT",
+  "ko": "빈 미술사 박물관",
+  "en": "Kunsthistorisches Museum",
+  "n": 3229
+ },
+ {
+  "k": "belvedere",
+  "q": "Q303139",
+  "c": "AT",
+  "ko": "벨베데레",
+  "en": "Belvedere",
+  "n": 2730
+ },
+ {
+  "k": "hermitage",
+  "q": "Q132783",
+  "c": "RU",
+  "ko": "에르미타주 미술관",
+  "en": "Hermitage Museum",
+  "n": 3460
+ },
+ {
+  "k": "natmus",
+  "q": "Q842858",
+  "c": "SE",
+  "ko": "스웨덴 국립미술관",
+  "en": "Nationalmuseum",
+  "n": 6997
+ },
+ {
+  "k": "nga",
+  "q": "Q214867",
+  "c": "US",
+  "ko": "워싱턴 내셔널 갤러리",
+  "en": "National Gallery of Art",
+  "n": 2911
+ },
+ {
+  "k": "aic",
+  "q": "Q239303",
+  "c": "US",
+  "ko": "시카고 미술관",
+  "en": "Art Institute of Chicago",
+  "n": 1621
+ },
+ {
+  "k": "mfa",
+  "q": "Q49133",
+  "c": "US",
+  "ko": "보스턴 미술관",
+  "en": "Museum of Fine Arts, Boston",
+  "n": 2538
+ },
+ {
+  "k": "getty",
+  "q": "Q731126",
+  "c": "US",
+  "ko": "게티 센터",
+  "en": "Getty Center",
+  "n": 469
+ },
+ {
+  "k": "phila",
+  "q": "Q510324",
+  "c": "US",
+  "ko": "필라델피아 미술관",
+  "en": "Philadelphia Museum of Art",
+  "n": 1073
+ },
+ {
+  "k": "saam",
+  "q": "Q1192305",
+  "c": "US",
+  "ko": "스미스소니언 미국 미술관",
+  "en": "Smithsonian American Art Museum",
+  "n": 4198
+ },
+ {
+  "k": "mia",
+  "q": "Q1700481",
+  "c": "US",
+  "ko": "미니애폴리스 미술관",
+  "en": "Minneapolis Institute of Art",
+  "n": 1363
+ },
+ {
+  "k": "nmwa",
+  "q": "Q1362629",
+  "c": "JP",
+  "ko": "도쿄 국립서양미술관",
+  "en": "National Museum of Western Art",
+  "n": 197
+ },
+ {
+  "k": "tnm",
+  "q": "Q653433",
+  "c": "JP",
+  "ko": "도쿄 국립박물관",
+  "en": "Tokyo National Museum",
+  "n": 72
+ },
+ {
+  "k": "npm",
+  "q": "Q540668",
+  "c": "TW",
+  "ko": "국립고궁박물원",
+  "en": "National Palace Museum",
+  "n": 842
+ },
+ {
+  "k": "ngv",
+  "q": "Q1464509",
+  "c": "AU",
+  "ko": "빅토리아 국립미술관",
+  "en": "National Gallery of Victoria",
+  "n": 291
+ },
+ {
+  "k": "agnsw",
+  "q": "Q705551",
+  "c": "AU",
+  "ko": "뉴사우스웨일스 미술관",
+  "en": "Art Gallery of NSW",
+  "n": 270
+ },
+ {
+  "k": "versailles",
+  "q": "Q2946",
+  "c": "FR",
+  "ko": "베르사유 궁전",
+  "en": "Palace of Versailles",
+  "n": 1255
+ },
+ {
+  "k": "marmottan",
+  "q": "Q1327886",
+  "c": "FR",
+  "ko": "마르모탕 모네 미술관",
+  "en": "Musée Marmottan Monet",
+  "n": 148
+ },
+ {
+  "k": "lyon",
+  "q": "Q511",
+  "c": "FR",
+  "ko": "리옹 미술관",
+  "en": "Musée des Beaux-Arts de Lyon",
+  "n": 342
+ },
+ {
+  "k": "royalcol",
+  "q": "Q1459037",
+  "c": "GB",
+  "ko": "영국 왕실 컬렉션",
+  "en": "Royal Collection",
+  "n": 4611
+ },
+ {
+  "k": "npg",
+  "q": "Q238587",
+  "c": "GB",
+  "ko": "내셔널 포트레이트 갤러리",
+  "en": "National Portrait Gallery",
+  "n": 2450
+ },
+ {
+  "k": "fitz",
+  "q": "Q1421440",
+  "c": "GB",
+  "ko": "피츠윌리엄 박물관",
+  "en": "Fitzwilliam Museum",
+  "n": 1282
+ },
+ {
+  "k": "ashmolean",
+  "q": "Q636400",
+  "c": "GB",
+  "ko": "애슈몰린 박물관",
+  "en": "Ashmolean Museum",
+  "n": 1157
+ },
+ {
+  "k": "wallace",
+  "q": "Q1327919",
+  "c": "GB",
+  "ko": "월리스 컬렉션",
+  "en": "Wallace Collection",
+  "n": 653
+ },
+ {
+  "k": "franshals",
+  "q": "Q574961",
+  "c": "NL",
+  "ko": "프란스 할스 미술관",
+  "en": "Frans Hals Museum",
+  "n": 370
+ },
+ {
+  "k": "dordrecht",
+  "q": "Q2874177",
+  "c": "NL",
+  "ko": "도르드레흐트 미술관",
+  "en": "Dordrechts Museum",
+  "n": 936
+ },
+ {
+  "k": "brussels",
+  "q": "Q377500",
+  "c": "BE",
+  "ko": "벨기에 왕립미술관",
+  "en": "Royal Museums of Fine Arts of Belgium",
+  "n": 911
+ },
+ {
+  "k": "antwerp",
+  "q": "Q1471477",
+  "c": "BE",
+  "ko": "안트베르펜 왕립미술관",
+  "en": "Royal Museum of Fine Arts Antwerp",
+  "n": 2165
+ },
+ {
+  "k": "groeninge",
+  "q": "Q1948674",
+  "c": "BE",
+  "ko": "흐루닝어 미술관",
+  "en": "Groeningemuseum",
+  "n": 711
+ },
+ {
+  "k": "borghese",
+  "q": "Q841506",
+  "c": "IT",
+  "ko": "보르게세 미술관",
+  "en": "Galleria Borghese",
+  "n": 146
+ },
+ {
+  "k": "accademia",
+  "q": "Q338330",
+  "c": "IT",
+  "ko": "베네치아 아카데미아 미술관",
+  "en": "Gallerie dell'Accademia",
+  "n": 359
+ },
+ {
+  "k": "capodimonte",
+  "q": "Q290549",
+  "c": "IT",
+  "ko": "카포디몬테 미술관",
+  "en": "Museo di Capodimonte",
+  "n": 253
+ },
+ {
+  "k": "vatican",
+  "q": "Q182955",
+  "c": "IT",
+  "ko": "바티칸 박물관",
+  "en": "Vatican Museums",
+  "n": 171
+ },
+ {
+  "k": "palatina",
+  "q": "Q866498",
+  "c": "IT",
+  "ko": "팔라티나 미술관",
+  "en": "Galleria Palatina",
+  "n": 224
+ },
+ {
+  "k": "mnac",
+  "q": "Q861252",
+  "c": "ES",
+  "ko": "카탈루냐 국립미술관",
+  "en": "Museu Nacional d'Art de Catalunya",
+  "n": 1158
+ },
+ {
+  "k": "bilbao",
+  "q": "Q127064",
+  "c": "ES",
+  "ko": "빌바오 미술관",
+  "en": "Bilbao Fine Arts Museum",
+  "n": 113
+ },
+ {
+  "k": "mnaa",
+  "q": "Q212459",
+  "c": "PT",
+  "ko": "포르투갈 국립고대미술관",
+  "en": "National Museum of Ancient Art",
+  "n": 444
+ },
+ {
+  "k": "gulbenkian",
+  "q": "Q211262",
+  "c": "PT",
+  "ko": "굴벤키안 미술관",
+  "en": "Calouste Gulbenkian Museum",
+  "n": 113
+ },
+ {
+  "k": "bstgs",
+  "q": "Q812285",
+  "c": "DE",
+  "ko": "바이에른 주립회화컬렉션",
+  "en": "Bavarian State Painting Collections",
+  "n": 9652
+ },
+ {
+  "k": "wallraf",
+  "q": "Q700959",
+  "c": "DE",
+  "ko": "발라프 리하르츠 미술관",
+  "en": "Wallraf-Richartz Museum",
+  "n": 783
+ },
+ {
+  "k": "hamburg",
+  "q": "Q169542",
+  "c": "DE",
+  "ko": "함부르크 쿤스트할레",
+  "en": "Hamburger Kunsthalle",
+  "n": 435
+ },
+ {
+  "k": "stuttgart",
+  "q": "Q14917275",
+  "c": "DE",
+  "ko": "슈투트가르트 국립미술관",
+  "en": "Staatsgalerie Stuttgart",
+  "n": 231
+ },
+ {
+  "k": "basel",
+  "q": "Q194626",
+  "c": "CH",
+  "ko": "바젤 미술관",
+  "en": "Kunstmuseum Basel",
+  "n": 452
+ },
+ {
+  "k": "zurich",
+  "q": "Q685038",
+  "c": "CH",
+  "ko": "취리히 미술관",
+  "en": "Kunsthaus Zürich",
+  "n": 1101
+ },
+ {
+  "k": "ngi",
+  "q": "Q2018379",
+  "c": "IE",
+  "ko": "아일랜드 국립미술관",
+  "en": "National Gallery of Ireland",
+  "n": 1845
+ },
+ {
+  "k": "smkwd",
+  "q": "Q671384",
+  "c": "DK",
+  "ko": "덴마크 국립미술관 (SMK)",
+  "en": "SMK National Gallery of Denmark",
+  "n": 4585
+ },
+ {
+  "k": "glyptotek",
+  "q": "Q1140507",
+  "c": "DK",
+  "ko": "뉴 칼스버그 글립토테크",
+  "en": "Ny Carlsberg Glyptotek",
+  "n": 117
+ },
+ {
+  "k": "nasjonal",
+  "q": "Q1132918",
+  "c": "NO",
+  "ko": "노르웨이 국립미술관",
+  "en": "Nasjonalmuseet",
+  "n": 2598
+ },
+ {
+  "k": "gothenburg",
+  "q": "Q1992004",
+  "c": "SE",
+  "ko": "예테보리 미술관",
+  "en": "Gothenburg Museum of Art",
+  "n": 449
+ },
+ {
+  "k": "fng",
+  "q": "Q2983474",
+  "c": "FI",
+  "ko": "핀란드 국립미술관",
+  "en": "Finnish National Gallery",
+  "n": 2641
+ },
+ {
+  "k": "tretyakov",
+  "q": "Q183334",
+  "c": "RU",
+  "ko": "트레티야코프 미술관",
+  "en": "Tretyakov Gallery",
+  "n": 1012
+ },
+ {
+  "k": "rusmus",
+  "q": "Q211043",
+  "c": "RU",
+  "ko": "러시아 박물관",
+  "en": "Russian Museum",
+  "n": 788
+ },
+ {
+  "k": "pushkin",
+  "q": "Q4872",
+  "c": "RU",
+  "ko": "푸시킨 미술관",
+  "en": "Pushkin Museum",
+  "n": 403
+ },
+ {
+  "k": "warsaw",
+  "q": "Q153306",
+  "c": "PL",
+  "ko": "바르샤바 국립박물관",
+  "en": "National Museum in Warsaw",
+  "n": 6291
+ },
+ {
+  "k": "krakow",
+  "q": "Q195311",
+  "c": "PL",
+  "ko": "크라쿠프 국립박물관",
+  "en": "National Museum in Kraków",
+  "n": 1836
+ },
+ {
+  "k": "prague",
+  "q": "Q1419555",
+  "c": "CZ",
+  "ko": "프라하 국립미술관",
+  "en": "National Gallery Prague",
+  "n": 1216
+ },
+ {
+  "k": "budapest",
+  "q": "Q840886",
+  "c": "HU",
+  "ko": "부다페스트 미술관",
+  "en": "Museum of Fine Arts, Budapest",
+  "n": 698
+ },
+ {
+  "k": "hungal",
+  "q": "Q252071",
+  "c": "HU",
+  "ko": "헝가리 국립미술관",
+  "en": "Hungarian National Gallery",
+  "n": 570
+ },
+ {
+  "k": "israel",
+  "q": "Q46815",
+  "c": "IL",
+  "ko": "이스라엘 박물관",
+  "en": "Israel Museum",
+  "n": 113
+ },
+ {
+  "k": "palace",
+  "q": "Q2047427",
+  "c": "CN",
+  "ko": "베이징 고궁박물원",
+  "en": "The Palace Museum",
+  "n": 7894
+ },
+ {
+  "k": "shanghai",
+  "q": "Q1051293",
+  "c": "CN",
+  "ko": "상하이 박물관",
+  "en": "Shanghai Museum",
+  "n": 444
+ },
+ {
+  "k": "brooklyn",
+  "q": "Q632682",
+  "c": "US",
+  "ko": "브루클린 미술관",
+  "en": "Brooklyn Museum",
+  "n": 893
+ },
+ {
+  "k": "lacma",
+  "q": "Q1641836",
+  "c": "US",
+  "ko": "로스앤젤레스 카운티 미술관",
+  "en": "LACMA",
+  "n": 909
+ },
+ {
+  "k": "dia",
+  "q": "Q1201549",
+  "c": "US",
+  "ko": "디트로이트 미술관",
+  "en": "Detroit Institute of Arts",
+  "n": 2216
+ },
+ {
+  "k": "walters",
+  "q": "Q210081",
+  "c": "US",
+  "ko": "월터스 미술관",
+  "en": "Walters Art Museum",
+  "n": 575
+ },
+ {
+  "k": "yuag",
+  "q": "Q1568434",
+  "c": "US",
+  "ko": "예일대 미술관",
+  "en": "Yale University Art Gallery",
+  "n": 1784
+ },
+ {
+  "k": "ycba",
+  "q": "Q6352575",
+  "c": "US",
+  "ko": "예일 영국미술센터",
+  "en": "Yale Center for British Art",
+  "n": 1943
+ },
+ {
+  "k": "harvard",
+  "q": "Q3783572",
+  "c": "US",
+  "ko": "하버드 미술관",
+  "en": "Harvard Art Museums",
+  "n": 1924
+ },
+ {
+  "k": "frick",
+  "q": "Q682827",
+  "c": "US",
+  "ko": "프릭 컬렉션",
+  "en": "The Frick Collection",
+  "n": 142
+ },
+ {
+  "k": "nelson",
+  "q": "Q1976985",
+  "c": "US",
+  "ko": "넬슨 앳킨스 미술관",
+  "en": "Nelson-Atkins Museum of Art",
+  "n": 163
+ },
+ {
+  "k": "toledo",
+  "q": "Q1743116",
+  "c": "US",
+  "ko": "톨레도 미술관",
+  "en": "Toledo Museum of Art",
+  "n": 312
+ },
+ {
+  "k": "indy",
+  "q": "Q1117704",
+  "c": "US",
+  "ko": "인디애나폴리스 미술관",
+  "en": "Indianapolis Museum of Art",
+  "n": 844
+ },
+ {
+  "k": "slam",
+  "q": "Q1760539",
+  "c": "US",
+  "ko": "세인트루이스 미술관",
+  "en": "Saint Louis Art Museum",
+  "n": 465
+ },
+ {
+  "k": "mfah",
+  "q": "Q1565911",
+  "c": "US",
+  "ko": "휴스턴 미술관",
+  "en": "Museum of Fine Arts, Houston",
+  "n": 681
+ },
+ {
+  "k": "princeton",
+  "q": "Q2603905",
+  "c": "US",
+  "ko": "프린스턴대 미술관",
+  "en": "Princeton University Art Museum",
+  "n": 850
+ },
+ {
+  "k": "ngc",
+  "q": "Q1068063",
+  "c": "CA",
+  "ko": "캐나다 국립미술관",
+  "en": "National Gallery of Canada",
+  "n": 320
+ },
+ {
+  "k": "mmfa",
+  "q": "Q860812",
+  "c": "CA",
+  "ko": "몬트리올 미술관",
+  "en": "Montreal Museum of Fine Arts",
+  "n": 176
+ },
+ {
+  "k": "munal",
+  "q": "Q1138147",
+  "c": "MX",
+  "ko": "멕시코 국립미술관",
+  "en": "Museo Nacional de Arte",
+  "n": 166
+ },
+ {
+  "k": "masp",
+  "q": "Q82941",
+  "c": "BR",
+  "ko": "상파울루 미술관",
+  "en": "São Paulo Museum of Art",
+  "n": 280
+ },
+ {
+  "k": "mnba",
+  "q": "Q1779837",
+  "c": "CU",
+  "ko": "쿠바 국립미술관",
+  "en": "National Museum of Fine Arts of Cuba",
+  "n": 213
+ },
+ {
+  "k": "natau",
+  "q": "Q795228",
+  "c": "AU",
+  "ko": "호주 국립미술관",
+  "en": "National Gallery of Australia",
+  "n": 93
+ },
+ {
+  "k": "tepapa",
+  "q": "Q915603",
+  "c": "NZ",
+  "ko": "테 파파 박물관",
+  "en": "Te Papa",
+  "n": 109
+ },
+ {
+  "k": "metwd",
+  "q": "Q160236",
+  "c": "US",
+  "ko": "메트로폴리탄 미술관 (위키미디어)",
+  "en": "The Met (via Wikimedia)",
+  "n": 8793
+ },
+ {
+  "k": "cmawd",
+  "q": "Q657415",
+  "c": "US",
+  "ko": "클리블랜드 미술관 (위키미디어)",
+  "en": "Cleveland Museum of Art (via Wikimedia)",
+  "n": 3871
+ },
+ {
+  "k": "vam",
+  "q": "Q213322",
+  "c": "GB",
+  "ko": "빅토리아 앤드 앨버트 박물관",
+  "en": "Victoria and Albert Museum",
+  "n": 2180
+ },
+ {
+  "k": "bl",
+  "q": "Q23308",
+  "c": "GB",
+  "ko": "영국 도서관",
+  "en": "British Library",
+  "n": 251
+ },
+ {
+  "k": "manchester",
+  "q": "Q2638817",
+  "c": "GB",
+  "ko": "맨체스터 미술관",
+  "en": "Manchester Art Gallery",
+  "n": 1063
+ },
+ {
+  "k": "walker",
+  "q": "Q1536471",
+  "c": "GB",
+  "ko": "워커 미술관",
+  "en": "Walker Art Gallery",
+  "n": 1515
+ },
+ {
+  "k": "cardiff",
+  "q": "Q1321874",
+  "c": "GB",
+  "ko": "웨일스 국립박물관",
+  "en": "National Museum Cardiff",
+  "n": 626
+ },
+ {
+  "k": "conde",
+  "q": "Q1236032",
+  "c": "FR",
+  "ko": "콩데 미술관",
+  "en": "Musée Condé",
+  "n": 684
+ },
+ {
+  "k": "fabre",
+  "q": "Q1519002",
+  "c": "FR",
+  "ko": "파브르 미술관",
+  "en": "Musée Fabre",
+  "n": 519
+ },
+ {
+  "k": "lille",
+  "q": "Q2628596",
+  "c": "FR",
+  "ko": "릴 미술관",
+  "en": "Palais des Beaux-Arts de Lille",
+  "n": 629
+ },
+ {
+  "k": "rouen",
+  "q": "Q3086934",
+  "c": "FR",
+  "ko": "루앙 미술관",
+  "en": "Musée des Beaux-Arts de Rouen",
+  "n": 209
+ },
+ {
+  "k": "augustins",
+  "q": "Q2711480",
+  "c": "FR",
+  "ko": "오귀스탱 미술관",
+  "en": "Musée des Augustins",
+  "n": 308
+ },
+ {
+  "k": "carnavalet",
+  "q": "Q640447",
+  "c": "FR",
+  "ko": "카르나발레 박물관",
+  "en": "Musée Carnavalet",
+  "n": 1836
+ },
+ {
+  "k": "barberini",
+  "q": "Q2266081",
+  "c": "IT",
+  "ko": "로마 국립고전미술관",
+  "en": "Galleria Nazionale d'Arte Antica",
+  "n": 155
+ },
+ {
+  "k": "capitolini",
+  "q": "Q333906",
+  "c": "IT",
+  "ko": "카피톨리니 박물관",
+  "en": "Capitoline Museums",
+  "n": 118
+ },
+ {
+  "k": "sevilla",
+  "q": "Q2163496",
+  "c": "ES",
+  "ko": "세비야 미술관",
+  "en": "Museo de Bellas Artes de Sevilla",
+  "n": 119
+ },
+ {
+  "k": "valencia",
+  "q": "Q1748404",
+  "c": "ES",
+  "ko": "발렌시아 미술관",
+  "en": "Museu de Belles Arts de València",
+  "n": 166
+ },
+ {
+  "k": "sanfernando",
+  "q": "Q1322403",
+  "c": "ES",
+  "ko": "산페르난도 왕립미술아카데미",
+  "en": "Real Academia de San Fernando",
+  "n": 168
+ },
+ {
+  "k": "galdiano",
+  "q": "Q386570",
+  "c": "ES",
+  "ko": "라사로 갈디아노 미술관",
+  "en": "Museo Lázaro Galdiano",
+  "n": 117
+ },
+ {
+  "k": "karlsruhe",
+  "q": "Q658725",
+  "c": "DE",
+  "ko": "카를스루에 국립미술관",
+  "en": "Staatliche Kunsthalle Karlsruhe",
+  "n": 1280
+ },
+ {
+  "k": "braunschweig",
+  "q": "Q678082",
+  "c": "DE",
+  "ko": "헤르초크 안톤 울리히 미술관",
+  "en": "Herzog Anton Ulrich Museum",
+  "n": 220
+ },
+ {
+  "k": "altenat",
+  "q": "Q162111",
+  "c": "DE",
+  "ko": "베를린 구 국립미술관",
+  "en": "Alte Nationalgalerie",
+  "n": 704
+ },
+ {
+  "k": "leipzig",
+  "q": "Q566661",
+  "c": "DE",
+  "ko": "라이프치히 조형미술관",
+  "en": "Museum der bildenden Künste Leipzig",
+  "n": 212
+ },
+ {
+  "k": "gnm",
+  "q": "Q478695",
+  "c": "DE",
+  "ko": "게르만 국립박물관",
+  "en": "Germanisches Nationalmuseum",
+  "n": 528
+ },
+ {
+  "k": "liechtenstein",
+  "q": "Q1824069",
+  "c": "AT",
+  "ko": "리히텐슈타인 컬렉션",
+  "en": "Liechtenstein Collections",
+  "n": 183
+ },
+ {
+  "k": "centraal",
+  "q": "Q260913",
+  "c": "NL",
+  "ko": "위트레흐트 중앙박물관",
+  "en": "Centraal Museum",
+  "n": 1027
+ },
+ {
+  "k": "boijmans",
+  "q": "Q679527",
+  "c": "NL",
+  "ko": "보이만스 판 뵈닝언 미술관",
+  "en": "Museum Boijmans Van Beuningen",
+  "n": 1509
+ },
+ {
+  "k": "amsmuseum",
+  "q": "Q1820897",
+  "c": "NL",
+  "ko": "암스테르담 박물관",
+  "en": "Amsterdam Museum",
+  "n": 2301
+ },
+ {
+  "k": "twenthe",
+  "q": "Q1505892",
+  "c": "NL",
+  "ko": "트벤터 국립미술관",
+  "en": "Rijksmuseum Twenthe",
+  "n": 568
+ },
+ {
+  "k": "teylers",
+  "q": "Q474563",
+  "c": "NL",
+  "ko": "테일러스 박물관",
+  "en": "Teylers Museum",
+  "n": 128
+ },
+ {
+  "k": "ghent",
+  "q": "Q2365880",
+  "c": "BE",
+  "ko": "헨트 미술관",
+  "en": "Museum of Fine Arts Ghent",
+  "n": 1209
+ },
+ {
+  "k": "npgus",
+  "q": "Q1967614",
+  "c": "US",
+  "ko": "미국 국립초상화미술관",
+  "en": "National Portrait Gallery (US)",
+  "n": 528
+ },
+ {
+  "k": "nyhs",
+  "q": "Q1059456",
+  "c": "US",
+  "ko": "뉴욕 역사협회",
+  "en": "New-York Historical Society",
+  "n": 1889
+ },
+ {
+  "k": "risd",
+  "q": "Q2148186",
+  "c": "US",
+  "ko": "로드아일랜드 디자인스쿨 미술관",
+  "en": "RISD Museum",
+  "n": 715
+ },
+ {
+  "k": "clark",
+  "q": "Q1465805",
+  "c": "US",
+  "ko": "클라크 미술관",
+  "en": "Clark Art Institute",
+  "n": 474
+ },
+ {
+  "k": "cincinnati",
+  "q": "Q2970522",
+  "c": "US",
+  "ko": "신시내티 미술관",
+  "en": "Cincinnati Art Museum",
+  "n": 343
+ },
+ {
+  "k": "nortonsimon",
+  "q": "Q1752085",
+  "c": "US",
+  "ko": "노턴 사이먼 미술관",
+  "en": "Norton Simon Museum",
+  "n": 248
+ },
+ {
+  "k": "worcester",
+  "q": "Q847508",
+  "c": "US",
+  "ko": "우스터 미술관",
+  "en": "Worcester Art Museum",
+  "n": 237
+ },
+ {
+  "k": "crystal",
+  "q": "Q1142334",
+  "c": "US",
+  "ko": "크리스털 브리지스 미술관",
+  "en": "Crystal Bridges Museum",
+  "n": 201
+ },
+ {
+  "k": "high",
+  "q": "Q953345",
+  "c": "US",
+  "ko": "하이 미술관",
+  "en": "High Museum of Art",
+  "n": 154
+ },
+ {
+  "k": "freer",
+  "q": "Q1075126",
+  "c": "US",
+  "ko": "프리어 미술관",
+  "en": "Freer Gallery of Art",
+  "n": 149
+ },
+ {
+  "k": "wadsworth",
+  "q": "Q403080",
+  "c": "US",
+  "ko": "워즈워스 아테네움",
+  "en": "Wadsworth Atheneum",
+  "n": 148
+ },
+ {
+  "k": "carnegie",
+  "q": "Q1043967",
+  "c": "US",
+  "ko": "카네기 미술관",
+  "en": "Carnegie Museum of Art",
+  "n": 144
+ },
+ {
+  "k": "kimbell",
+  "q": "Q1741629",
+  "c": "US",
+  "ko": "킴벨 미술관",
+  "en": "Kimbell Art Museum",
+  "n": 116
+ },
+ {
+  "k": "honolulu",
+  "q": "Q128316",
+  "c": "US",
+  "ko": "호놀룰루 미술관",
+  "en": "Honolulu Museum of Art",
+  "n": 109
+ },
+ {
+  "k": "columbus",
+  "q": "Q5935366",
+  "c": "US",
+  "ko": "콜럼버스 미술관",
+  "en": "Columbus Museum of Art",
+  "n": 105
+ },
+ {
+  "k": "slovak",
+  "q": "Q1744024",
+  "c": "SK",
+  "ko": "슬로바키아 국립미술관",
+  "en": "Slovak National Gallery",
+  "n": 2438
+ },
+ {
+  "k": "slovenia",
+  "q": "Q1953536",
+  "c": "SI",
+  "ko": "슬로베니아 국립미술관",
+  "en": "National Gallery of Slovenia",
+  "n": 137
+ },
+ {
+  "k": "romania",
+  "q": "Q1319192",
+  "c": "RO",
+  "ko": "루마니아 국립미술관",
+  "en": "National Museum of Art of Romania",
+  "n": 122
+ },
+ {
+  "k": "athens",
+  "q": "Q1167467",
+  "c": "GR",
+  "ko": "그리스 국립미술관",
+  "en": "National Gallery of Greece",
+  "n": 111
+ },
+ {
+  "k": "kyiv",
+  "q": "Q1189277",
+  "c": "UA",
+  "ko": "우크라이나 국립미술관",
+  "en": "National Art Museum of Ukraine",
+  "n": 67
+ },
+ {
+  "k": "nmc",
+  "q": "Q1074318",
+  "c": "CN",
+  "ko": "중국 국가박물관",
+  "en": "National Museum of China",
+  "n": 70
+ },
+ {
+  "k": "ndelhi",
+  "q": "Q1356138",
+  "c": "IN",
+  "ko": "인도 국립박물관",
+  "en": "National Museum, New Delhi",
+  "n": 140
+ },
+ {
+  "k": "golestan",
+  "q": "Q210610",
+  "c": "IR",
+  "ko": "골레스탄 궁전",
+  "en": "Golestan Palace",
+  "n": 68
+ },
+ {
+  "k": "pera",
+  "q": "Q1662392",
+  "c": "TR",
+  "ko": "페라 박물관",
+  "en": "Pera Museum",
+  "n": 60
+ },
+ {
+  "k": "agsa",
+  "q": "Q705557",
+  "c": "AU",
+  "ko": "남호주 미술관",
+  "en": "Art Gallery of South Australia",
+  "n": 214
+ },
+ {
+  "k": "auckland",
+  "q": "Q4819492",
+  "c": "NZ",
+  "ko": "오클랜드 미술관",
+  "en": "Auckland Art Gallery",
+  "n": 479
+ },
+ {
+  "k": "ntrust",
+  "q": "Q333515",
+  "c": "GB",
+  "ko": "영국 내셔널 트러스트",
+  "en": "National Trust",
+  "n": 10194
+ },
+ {
+  "k": "greenwich",
+  "q": "Q7374509",
+  "c": "GB",
+  "ko": "그리니치 왕립박물관",
+  "en": "Royal Museums Greenwich",
+  "n": 2378
+ },
+ {
+  "k": "birmingham",
+  "q": "Q4916759",
+  "c": "GB",
+  "ko": "버밍엄 박물관",
+  "en": "Birmingham Museums",
+  "n": 1284
+ },
+ {
+  "k": "bowes",
+  "q": "Q895434",
+  "c": "GB",
+  "ko": "보우스 박물관",
+  "en": "Bowes Museum",
+  "n": 1014
+ },
+ {
+  "k": "dulwich",
+  "q": "Q1241163",
+  "c": "GB",
+  "ko": "덜위치 미술관",
+  "en": "Dulwich Picture Gallery",
+  "n": 652
+ },
+ {
+  "k": "courtauld",
+  "q": "Q12110695",
+  "c": "GB",
+  "ko": "코톨드 갤러리",
+  "en": "Courtauld Gallery",
+  "n": 383
+ },
+ {
+  "k": "royalacad",
+  "q": "Q270920",
+  "c": "GB",
+  "ko": "영국 왕립미술원",
+  "en": "Royal Academy of Arts",
+  "n": 405
+ },
+ {
+  "k": "york",
+  "q": "Q8055361",
+  "c": "GB",
+  "ko": "요크 미술관",
+  "en": "York Art Gallery",
+  "n": 695
+ },
+ {
+  "k": "ulster",
+  "q": "Q3547979",
+  "c": "GB",
+  "ko": "얼스터 박물관",
+  "en": "Ulster Museum",
+  "n": 391
+ },
+ {
+  "k": "bristol",
+  "q": "Q4968867",
+  "c": "GB",
+  "ko": "브리스틀 미술관",
+  "en": "Bristol Museum & Art Gallery",
+  "n": 737
+ },
+ {
+  "k": "petitpalais",
+  "q": "Q59546080",
+  "c": "FR",
+  "ko": "프티 팔레",
+  "en": "Petit Palais",
+  "n": 1839
+ },
+ {
+  "k": "reims",
+  "q": "Q3330225",
+  "c": "FR",
+  "ko": "랭스 미술관",
+  "en": "Musée des Beaux-Arts de Reims",
+  "n": 526
+ },
+ {
+  "k": "dijon",
+  "q": "Q1955739",
+  "c": "FR",
+  "ko": "디종 미술관",
+  "en": "Musée des Beaux-Arts de Dijon",
+  "n": 466
+ },
+ {
+  "k": "strasbourg",
+  "q": "Q1535963",
+  "c": "FR",
+  "ko": "스트라스부르 미술관",
+  "en": "Musée des Beaux-Arts de Strasbourg",
+  "n": 461
+ },
+ {
+  "k": "grenoble",
+  "q": "Q1952944",
+  "c": "FR",
+  "ko": "그르노블 미술관",
+  "en": "Musée de Grenoble",
+  "n": 371
+ },
+ {
+  "k": "cognacq",
+  "q": "Q1572452",
+  "c": "FR",
+  "ko": "코냐크제 미술관",
+  "en": "Musée Cognacq-Jay",
+  "n": 290
+ },
+ {
+  "k": "bordeaux",
+  "q": "Q954222",
+  "c": "FR",
+  "ko": "보르도 미술관",
+  "en": "Musée des Beaux-Arts de Bordeaux",
+  "n": 289
+ },
+ {
+  "k": "dresden",
+  "q": "Q653002",
+  "c": "DE",
+  "ko": "드레스덴 국립미술관",
+  "en": "Dresden State Art Collections",
+  "n": 1618
+ },
+ {
+  "k": "lenbach",
+  "q": "Q262234",
+  "c": "DE",
+  "ko": "렌바흐하우스",
+  "en": "Lenbachhaus",
+  "n": 429
+ },
+ {
+  "k": "kassel",
+  "q": "Q1954840",
+  "c": "DE",
+  "ko": "카셀 미술관",
+  "en": "Hessen Kassel Heritage",
+  "n": 442
+ },
+ {
+  "k": "augustiner",
+  "q": "Q542932",
+  "c": "DE",
+  "ko": "아우구스티너 박물관",
+  "en": "Augustinermuseum",
+  "n": 409
+ },
+ {
+  "k": "fries",
+  "q": "Q848313",
+  "c": "NL",
+  "ko": "프리스 박물관",
+  "en": "Fries Museum",
+  "n": 1151
+ },
+ {
+  "k": "groninger",
+  "q": "Q1542668",
+  "c": "NL",
+  "ko": "흐로닝어 미술관",
+  "en": "Groninger Museum",
+  "n": 855
+ },
+ {
+  "k": "bonnefanten",
+  "q": "Q892727",
+  "c": "NL",
+  "ko": "보네판텐 미술관",
+  "en": "Bonnefanten",
+  "n": 546
+ },
+ {
+  "k": "denhaag",
+  "q": "Q1499958",
+  "c": "NL",
+  "ko": "헤이그 시립미술관",
+  "en": "Kunstmuseum Den Haag",
+  "n": 351
+ },
+ {
+  "k": "mesdag",
+  "q": "Q255409",
+  "c": "NL",
+  "ko": "메스다흐 컬렉션",
+  "en": "The Mesdag Collection",
+  "n": 285
+ },
+ {
+  "k": "munch",
+  "q": "Q844926",
+  "c": "NO",
+  "ko": "뭉크 미술관",
+  "en": "Munch Museum",
+  "n": 1072
+ },
+ {
+  "k": "kode",
+  "q": "Q12715958",
+  "c": "NO",
+  "ko": "코데 미술관",
+  "en": "KODE Bergen",
+  "n": 291
+ },
+ {
+  "k": "estonia",
+  "q": "Q56189782",
+  "c": "EE",
+  "ko": "에스토니아 미술관",
+  "en": "Art Museum of Estonia",
+  "n": 1660
+ },
+ {
+  "k": "swnpg",
+  "q": "Q2817221",
+  "c": "SE",
+  "ko": "스웨덴 국립초상화미술관",
+  "en": "National Portrait Gallery of Sweden",
+  "n": 1599
+ },
+ {
+  "k": "barnes",
+  "q": "Q808462",
+  "c": "US",
+  "ko": "반스 재단",
+  "en": "Barnes Foundation",
+  "n": 509
+ },
+ {
+  "k": "famsf",
+  "q": "Q1416890",
+  "c": "US",
+  "ko": "샌프란시스코 미술관",
+  "en": "Fine Arts Museums of San Francisco",
+  "n": 461
+ },
+ {
+  "k": "dallas",
+  "q": "Q745866",
+  "c": "US",
+  "ko": "댈러스 미술관",
+  "en": "Dallas Museum of Art",
+  "n": 416
+ },
+ {
+  "k": "sandiego",
+  "q": "Q1368166",
+  "c": "US",
+  "ko": "샌디에이고 미술관",
+  "en": "San Diego Museum of Art",
+  "n": 382
+ },
+ {
+  "k": "gardner",
+  "q": "Q49135",
+  "c": "US",
+  "ko": "이저벨라 스튜어트 가드너 미술관",
+  "en": "Isabella Stewart Gardner Museum",
+  "n": 338
+ },
+ {
+  "k": "phillips",
+  "q": "Q578485",
+  "c": "US",
+  "ko": "필립스 컬렉션",
+  "en": "The Phillips Collection",
+  "n": 291
+ },
+ {
+  "k": "hispanic",
+  "q": "Q2420849",
+  "c": "US",
+  "ko": "히스패닉 소사이어티 미술관",
+  "en": "Hispanic Society Museum",
+  "n": 307
+ },
+ {
+  "k": "mnbaar",
+  "q": "Q1848918",
+  "c": "AR",
+  "ko": "아르헨티나 국립미술관",
+  "en": "Museo Nacional de Bellas Artes (Argentina)",
+  "n": 737
+ },
+ {
+  "k": "pinasp",
+  "q": "Q2095209",
+  "c": "BR",
+  "ko": "상파울루 피나코테카",
+  "en": "Pinacoteca de São Paulo",
+  "n": 300
+ },
+ {
+  "k": "mnbabr",
+  "q": "Q1954370",
+  "c": "BR",
+  "ko": "브라질 국립미술관",
+  "en": "Museu Nacional de Belas Artes (Brazil)",
+  "n": 294
+ },
+ {
+  "k": "cordoba",
+  "q": "Q6033943",
+  "c": "ES",
+  "ko": "코르도바 미술관",
+  "en": "Museo de Bellas Artes de Córdoba",
+  "n": 279
+ },
+ {
+  "k": "radishchev",
+  "q": "Q1270949",
+  "c": "RU",
+  "ko": "라디셰프 미술관",
+  "en": "Radishchev Art Museum",
+  "n": 257
+ },
+ {
+  "k": "agnes",
+  "q": "Q4693034",
+  "c": "CA",
+  "ko": "애그니스 에서링턴 미술센터",
+  "en": "Agnes Etherington Art Centre",
+  "n": 287
+ },
+ {
+  "k": "natgalsco",
+  "q": "Q2051997",
+  "c": "GB",
+  "ko": "스코틀랜드 국립미술관 그룹",
+  "en": "National Galleries Scotland",
+  "n": 2344
+ },
+ {
+  "k": "tategrp",
+  "q": "Q430682",
+  "c": "GB",
+  "ko": "테이트 (전체 컬렉션)",
+  "en": "Tate (whole collection)",
+  "n": 2266
+ },
+ {
+  "k": "rce",
+  "q": "Q18600731",
+  "c": "NL",
+  "ko": "네덜란드 국가 미술 컬렉션",
+  "en": "Dutch State Art Collection (RCE)",
+  "n": 3993
+ },
+ {
+  "k": "glasgow",
+  "q": "Q41661713",
+  "c": "GB",
+  "ko": "글래스고 박물관",
+  "en": "Glasgow Museums",
+  "n": 1395
+ },
+ {
+  "k": "sheffield",
+  "q": "Q7492669",
+  "c": "GB",
+  "ko": "셰필드 미술관",
+  "en": "Sheffield Museums",
+  "n": 1191
+ },
+ {
+  "k": "aberdeen",
+  "q": "Q109893034",
+  "c": "GB",
+  "ko": "애버딘 미술관",
+  "en": "Aberdeen Art Gallery and Museums",
+  "n": 1073
+ },
+ {
+  "k": "gac",
+  "q": "Q5588677",
+  "c": "GB",
+  "ko": "영국 정부 미술 컬렉션",
+  "en": "Government Art Collection",
+  "n": 1049
+ },
+ {
+  "k": "norfolk",
+  "q": "Q55361621",
+  "c": "GB",
+  "ko": "노퍽 박물관",
+  "en": "Norfolk Museums",
+  "n": 861
+ },
+ {
+  "k": "mnorth",
+  "q": "Q17530935",
+  "c": "GB",
+  "ko": "마리안 노스 갤러리 (큐 가든)",
+  "en": "Marianne North Gallery, Kew",
+  "n": 861
+ },
+ {
+  "k": "vlaams",
+  "q": "Q2542010",
+  "c": "BE",
+  "ko": "플랑드르 미술 컬렉션",
+  "en": "Flemish Art Collection",
+  "n": 574
+ },
+ {
+  "k": "brighton",
+  "q": "Q2790574",
+  "c": "GB",
+  "ko": "브라이턴 미술관",
+  "en": "Brighton Museum and Art Gallery",
+  "n": 734
+ },
+ {
+  "k": "guildhall",
+  "q": "Q4968030",
+  "c": "GB",
+  "ko": "길드홀 미술관",
+  "en": "Guildhall Art Gallery",
+  "n": 585
+ },
+ {
+  "k": "wellcome",
+  "q": "Q7981191",
+  "c": "GB",
+  "ko": "웰컴 컬렉션",
+  "en": "Wellcome Collection",
+  "n": 566
+ },
+ {
+  "k": "laing",
+  "q": "Q1800739",
+  "c": "GB",
+  "ko": "레잉 미술관",
+  "en": "Laing Art Gallery",
+  "n": 539
+ },
+ {
+  "k": "hunterian",
+  "q": "Q1465387",
+  "c": "GB",
+  "ko": "헌터리언 미술관",
+  "en": "Hunterian Art Gallery",
+  "n": 472
+ },
+ {
+  "k": "shipley",
+  "q": "Q7498014",
+  "c": "GB",
+  "ko": "시플리 미술관",
+  "en": "Shipley Art Gallery",
+  "n": 472
+ },
+ {
+  "k": "wolverh",
+  "q": "Q8030459",
+  "c": "GB",
+  "ko": "울버햄프턴 미술관",
+  "en": "Wolverhampton Art Gallery",
+  "n": 455
+ },
+ {
+  "k": "southampton",
+  "q": "Q7569107",
+  "c": "GB",
+  "ko": "사우샘프턴 시립미술관",
+  "en": "Southampton City Art Gallery",
+  "n": 428
+ },
+ {
+  "k": "russellc",
+  "q": "Q7381305",
+  "c": "GB",
+  "ko": "러셀 코츠 미술관",
+  "en": "Russell-Cotes Art Gallery",
+  "n": 422
+ },
+ {
+  "k": "besancon",
+  "q": "Q1324926",
+  "c": "FR",
+  "ko": "브장송 미술고고학 박물관",
+  "en": "Besançon Museum of Fine Arts and Archaeology",
+  "n": 321
+ },
+ {
+  "k": "magnin",
+  "q": "Q3329260",
+  "c": "FR",
+  "ko": "마냉 미술관",
+  "en": "Musée Magnin",
+  "n": 305
+ },
+ {
+  "k": "trinidad",
+  "q": "Q6034310",
+  "c": "ES",
+  "ko": "트리니다드 미술관 (프라도 기탁품)",
+  "en": "Museo de la Trinidad (Prado deposits)",
+  "n": 397
+ },
+ {
+  "k": "gouda",
+  "q": "Q4360916",
+  "c": "NL",
+  "ko": "하우다 박물관",
+  "en": "Museum Gouda",
+  "n": 352
+ },
+ {
+  "k": "scheepvaart",
+  "q": "Q1616123",
+  "c": "NL",
+  "ko": "암스테르담 해양 박물관",
+  "en": "Het Scheepvaartmuseum",
+  "n": 378
+ },
+ {
+  "k": "readingpm",
+  "q": "Q7300542",
+  "c": "US",
+  "ko": "리딩 공립박물관",
+  "en": "Reading Public Museum",
+  "n": 431
+ },
+ {
+  "k": "oslomus",
+  "q": "Q6877320",
+  "c": "NO",
+  "ko": "오슬로 박물관",
+  "en": "Oslo Museum",
+  "n": 460
+ },
+ {
+  "k": "histfr",
+  "q": "Q3329787",
+  "c": "FR",
+  "ko": "프랑스 역사 박물관 (베르사유)",
+  "en": "Museum of the History of France (Versailles)",
+  "n": 971
+ },
+ {
+  "k": "moma",
+  "q": "Q188740",
+  "c": "US",
+  "ko": "뉴욕 현대 미술관",
+  "en": "Museum of Modern Art",
+  "n": 243
+ },
+ {
+  "k": "derby",
+  "q": "Q8012",
+  "c": "GB",
+  "ko": "더비 미술관",
+  "en": "Derby Museum and Art Gallery",
+  "n": 194
+ },
+ {
+  "k": "doria",
+  "q": "Q1203458",
+  "c": "IT",
+  "ko": "도리아 팜필리 미술관",
+  "en": "Galleria Doria Pamphilj",
+  "n": 45
+ },
+ {
+  "k": "ladylever",
+  "q": "Q1586957",
+  "c": "GB",
+  "ko": "레이디 레버 미술관",
+  "en": "Lady Lever Art Gallery",
+  "n": 243
+ },
+ {
+  "k": "leopold",
+  "q": "Q59435",
+  "c": "AT",
+  "ko": "레오폴트 미술관",
+  "en": "Leopold Museum",
+  "n": 97
+ },
+ {
+  "k": "warsawcastle",
+  "q": "Q756098",
+  "c": "PL",
+  "ko": "바르샤바 왕궁",
+  "en": "Royal Castle in Warsaw",
+  "n": 244
+ },
+ {
+  "k": "antwerpcath",
+  "q": "Q5901",
+  "c": "BE",
+  "ko": "안트베르펜 성모 대성당",
+  "en": "Cathedral of Our Lady, Antwerp",
+  "n": 69
+ },
+ {
+  "k": "reinasofia",
+  "q": "Q460889",
+  "c": "ES",
+  "ko": "레이나 소피아 미술관",
+  "en": "Museo Reina Sofía",
+  "n": 96
+ },
+ {
+  "k": "sanluigi",
+  "q": "Q638283",
+  "c": "IT",
+  "ko": "산 루이지 데이 프란체시 성당",
+  "en": "San Luigi dei Francesi",
+  "n": 3
+ },
+ {
+  "k": "buffalo",
+  "q": "Q1970945",
+  "c": "US",
+  "ko": "버펄로 AKG 미술관",
+  "en": "Buffalo AKG Art Museum",
+  "n": 211
+ },
+ {
+  "k": "ambrosiana",
+  "q": "Q1085811",
+  "c": "IT",
+  "ko": "암브로시아나 미술관",
+  "en": "Pinacoteca Ambrosiana",
+  "n": 40
+ },
+ {
+  "k": "frari",
+  "q": "Q224961",
+  "c": "IT",
+  "ko": "프라리 성당",
+  "en": "Santa Maria Gloriosa dei Frari",
+  "n": 10
+ },
+ {
+  "k": "popolo",
+  "q": "Q869513",
+  "c": "IT",
+  "ko": "산타 마리아 델 포폴로 성당",
+  "en": "Santa Maria del Popolo",
+  "n": 5
+ },
+ {
+  "k": "marche",
+  "q": "Q1080108",
+  "c": "IT",
+  "ko": "마르케 국립 미술관",
+  "en": "Galleria Nazionale delle Marche",
+  "n": 49
+ },
+ {
+  "k": "folkwang",
+  "q": "Q125634",
+  "c": "DE",
+  "ko": "폴크방 미술관",
+  "en": "Museum Folkwang",
+  "n": 88
+ },
+ {
+  "k": "kenwood",
+  "q": "Q764804",
+  "c": "GB",
+  "ko": "켄우드 하우스",
+  "en": "Kenwood House",
+  "n": 238
+ },
+ {
+  "k": "mnam",
+  "q": "Q1895953",
+  "c": "FR",
+  "ko": "퐁피두 센터 국립 현대 미술관",
+  "en": "Musée National d'Art Moderne",
+  "n": 502
+ },
+ {
+  "k": "messina",
+  "q": "Q1526140",
+  "c": "IT",
+  "ko": "메시나 지역 박물관",
+  "en": "Regional Museum of Messina",
+  "n": 14
+ },
+ {
+  "k": "wales",
+  "q": "Q2046319",
+  "c": "GB",
+  "ko": "웨일스 국립 박물관",
+  "en": "National Museum Wales",
+  "n": 753
+ },
+ {
+  "k": "poznan",
+  "q": "Q194533",
+  "c": "PL",
+  "ko": "포즈난 국립 박물관",
+  "en": "National Museum in Poznań",
+  "n": 200
+ },
+ {
+  "k": "bologna",
+  "q": "Q1103550",
+  "c": "IT",
+  "ko": "볼로냐 국립 미술관",
+  "en": "Pinacoteca Nazionale di Bologna",
+  "n": 140
+ },
+ {
+  "k": "bergen",
+  "q": "Q1770313",
+  "c": "NO",
+  "ko": "베르겐 미술관",
+  "en": "KODE Art Museums of Bergen",
+  "n": 66
+ },
+ {
+  "k": "escorial",
+  "q": "Q28471",
+  "c": "ES",
+  "ko": "엘 에스코리알 수도원",
+  "en": "El Escorial",
+  "n": 45
+ },
+ {
+  "k": "sistine",
+  "q": "Q2943",
+  "c": "VA",
+  "ko": "시스티나 성당",
+  "en": "Sistine Chapel",
+  "n": 20
+ },
+ {
+  "k": "abudhabi",
+  "q": "Q3176133",
+  "c": "AE",
+  "ko": "루브르 아부다비",
+  "en": "Louvre Abu Dhabi",
+  "n": 18
+ },
+ {
+  "k": "bode",
+  "q": "Q157825",
+  "c": "DE",
+  "ko": "보데 박물관",
+  "en": "Bode Museum",
+  "n": 67
+ },
+ {
+  "k": "stbavo",
+  "q": "Q938154",
+  "c": "BE",
+  "ko": "성 바보 대성당",
+  "en": "St Bavo's Cathedral",
+  "n": 43
+ },
+ {
+  "k": "huntington",
+  "q": "Q1400558",
+  "c": "US",
+  "ko": "헌팅턴 미술관",
+  "en": "The Huntington",
+  "n": 49
+ },
+ {
+  "k": "neuegalerie",
+  "q": "Q59468",
+  "c": "US",
+  "ko": "노이에 갈레리",
+  "en": "Neue Galerie",
+  "n": 15
+ },
+ {
+  "k": "stjohnvalletta",
+  "q": "Q613619",
+  "c": "MT",
+  "ko": "성 요한 대성당",
+  "en": "St. John's Co-Cathedral",
+  "n": 2
+ },
+ {
+  "k": "santotome",
+  "q": "Q3139146",
+  "c": "ES",
+  "ko": "산토 토메 성당",
+  "en": "Church of Santo Tomé",
+  "n": 1
+ },
+ {
+  "k": "darmstadt",
+  "q": "Q452362",
+  "c": "DE",
+  "ko": "헤센 주립 박물관",
+  "en": "Hessian State Museum Darmstadt",
+  "n": 56
+ },
+ {
+  "k": "ponce",
+  "q": "Q3137182",
+  "c": "PR",
+  "ko": "폰세 미술관",
+  "en": "Museo de Arte de Ponce",
+  "n": 132
+ },
+ {
+  "k": "winterthur",
+  "q": "Q689829",
+  "c": "CH",
+  "ko": "빈터투어 미술관",
+  "en": "Kunst Museum Winterthur",
+  "n": 51
+ },
+ {
+  "k": "gdansk",
+  "q": "Q1968661",
+  "c": "PL",
+  "ko": "그단스크 국립 박물관",
+  "en": "National Museum in Gdańsk",
+  "n": 65
+ },
+ {
+  "k": "rodin",
+  "q": "Q650519",
+  "c": "FR",
+  "ko": "로댕 미술관",
+  "en": "Musée Rodin",
+  "n": 10
+ },
+ {
+  "k": "birminghamal",
+  "q": "Q865736",
+  "c": "US",
+  "ko": "버밍엄 미술관",
+  "en": "Birmingham Museum of Art",
+  "n": 177
+ },
+ {
+  "k": "palazzovecchio",
+  "q": "Q271928",
+  "c": "IT",
+  "ko": "베키오 궁전",
+  "en": "Palazzo Vecchio",
+  "n": 35
+ },
+ {
+  "k": "toledocath",
+  "q": "Q1123180",
+  "c": "ES",
+  "ko": "톨레도 대성당",
+  "en": "Toledo Cathedral",
+  "n": 21
+ },
+ {
+  "k": "sangiorgio",
+  "q": "Q713558",
+  "c": "IT",
+  "ko": "산 조르조 마조레 성당",
+  "en": "San Giorgio Maggiore",
+  "n": 15
+ },
+ {
+  "k": "whitney",
+  "q": "Q639791",
+  "c": "US",
+  "ko": "휘트니 미술관",
+  "en": "Whitney Museum of American Art",
+  "n": 29
+ },
+ {
+  "k": "delaware",
+  "q": "Q1183941",
+  "c": "US",
+  "ko": "델라웨어 미술관",
+  "en": "Delaware Art Museum",
+  "n": 35
+ },
+ {
+  "k": "parma",
+  "q": "Q772890",
+  "c": "IT",
+  "ko": "파르마 국립 미술관",
+  "en": "Galleria Nazionale di Parma",
+  "n": 102
+ },
+ {
+  "k": "nancy",
+  "q": "Q428765",
+  "c": "FR",
+  "ko": "낭시 미술관",
+  "en": "Musée des Beaux-Arts de Nancy",
+  "n": 155
+ },
+ {
+  "k": "skagen",
+  "q": "Q3555520",
+  "c": "DK",
+  "ko": "스카겐 미술관",
+  "en": "Skagens Museum",
+  "n": 247
+ },
+ {
+  "k": "latvia",
+  "q": "Q1370465",
+  "c": "LV",
+  "ko": "라트비아 국립 미술관",
+  "en": "Latvian National Museum of Art",
+  "n": 47
+ },
+ {
+  "k": "sorolla",
+  "q": "Q1592523",
+  "c": "ES",
+  "ko": "소로야 미술관",
+  "en": "Sorolla Museum",
+  "n": 55
+ },
+ {
+  "k": "ago",
+  "q": "Q670250",
+  "c": "CA",
+  "ko": "온타리오 미술관",
+  "en": "Art Gallery of Ontario",
+  "n": 95
+ },
+ {
+  "k": "carrara",
+  "q": "Q338367",
+  "c": "IT",
+  "ko": "아카데미아 카라라",
+  "en": "Accademia Carrara",
+  "n": 102
+ },
+ {
+  "k": "poldipezzoli",
+  "q": "Q1190657",
+  "c": "IT",
+  "ko": "폴디 페촐리 미술관",
+  "en": "Museo Poldi Pezzoli",
+  "n": 94
+ },
+ {
+  "k": "illescas",
+  "q": "Q16558514",
+  "c": "ES",
+  "ko": "일레스카스 자선 병원",
+  "en": "Hospital de la Caridad, Illescas",
+  "n": 5
+ },
+ {
+  "k": "k20",
+  "q": "Q548427",
+  "c": "DE",
+  "ko": "노르트라인베스트팔렌 미술관",
+  "en": "Kunstsammlung Nordrhein-Westfalen",
+  "n": 32
+ },
+ {
+  "k": "roemerholz",
+  "q": "Q682406",
+  "c": "CH",
+  "ko": "오스카 라인하르트 컬렉션 뢰머홀츠",
+  "en": "Sammlung Oskar Reinhart Am Römerholz",
+  "n": 84
+ },
+ {
+  "k": "beauxartsparis",
+  "q": "Q273593",
+  "c": "FR",
+  "ko": "파리 국립 미술학교",
+  "en": "Beaux-Arts de Paris",
+  "n": 74
+ },
+ {
+  "k": "magnanirocca",
+  "q": "Q3747192",
+  "c": "IT",
+  "ko": "마냐니 로카 재단",
+  "en": "Fondazione Magnani-Rocca",
+  "n": 15
+ },
+ {
+  "k": "spada",
+  "q": "Q3757699",
+  "c": "IT",
+  "ko": "스파다 미술관",
+  "en": "Galleria Spada",
+  "n": 22
+ },
+ {
+  "k": "elgreco",
+  "q": "Q3848124",
+  "c": "ES",
+  "ko": "엘 그레코 미술관",
+  "en": "El Greco Museum",
+  "n": 42
+ },
+ {
+  "k": "sforzesco",
+  "q": "Q3905124",
+  "c": "IT",
+  "ko": "스포르체스코성 미술관",
+  "en": "Pinacoteca del Castello Sforzesco",
+  "n": 88
+ },
+ {
+  "k": "kelvingrove",
+  "q": "Q1061094",
+  "c": "GB",
+  "ko": "켈빈그로브 미술관",
+  "en": "Kelvingrove Art Gallery and Museum",
+  "n": 303
+ },
+ {
+  "k": "calvet",
+  "q": "Q1142988",
+  "c": "FR",
+  "ko": "칼베 미술관",
+  "en": "Musée Calvet",
+  "n": 127
+ },
+ {
+  "k": "jacquemart",
+  "q": "Q1165526",
+  "c": "FR",
+  "ko": "자크마르 앙드레 미술관",
+  "en": "Musée Jacquemart-André",
+  "n": 43
+ },
+ {
+  "k": "schiavoni",
+  "q": "Q1290662",
+  "c": "IT",
+  "ko": "스쿠올라 디 산 조르조 델리 스키아보니",
+  "en": "Scuola di San Giorgio degli Schiavoni",
+  "n": 8
+ },
+ {
+  "k": "correr",
+  "q": "Q1470912",
+  "c": "IT",
+  "ko": "코레르 박물관",
+  "en": "Museo Correr",
+  "n": 64
+ },
+ {
+  "k": "gnamroma",
+  "q": "Q1492387",
+  "c": "IT",
+  "ko": "로마 국립 근현대 미술관",
+  "en": "Galleria Nazionale d'Arte Moderna, Rome",
+  "n": 91
+ },
+ {
+  "k": "memling",
+  "q": "Q2432540",
+  "c": "BE",
+  "ko": "성 요한 병원 멤링 미술관",
+  "en": "Sint-Janshospitaal, Bruges",
+  "n": 11
+ },
+ {
+  "k": "castelvecchio",
+  "q": "Q2518724",
+  "c": "IT",
+  "ko": "카스텔베키오 박물관",
+  "en": "Castelvecchio Museum",
+  "n": 189
+ },
+ {
+  "k": "lautrec",
+  "q": "Q2538129",
+  "c": "FR",
+  "ko": "툴루즈 로트레크 미술관",
+  "en": "Musée Toulouse-Lautrec",
+  "n": 122
+ },
+ {
+  "k": "catharijne",
+  "q": "Q1954426",
+  "c": "NL",
+  "ko": "카타레이너콘벤트 박물관",
+  "en": "Museum Catharijneconvent",
+  "n": 211
+ },
+ {
+  "k": "sanmarco",
+  "q": "Q13453137",
+  "c": "IT",
+  "ko": "산 마르코 박물관",
+  "en": "Museum of San Marco",
+  "n": 67
+ },
+ {
+  "k": "tournai",
+  "q": "Q1778179",
+  "c": "BE",
+  "ko": "투르네 미술관",
+  "en": "Musée des Beaux-Arts de Tournai",
+  "n": 91
+ },
+ {
+  "k": "bremen",
+  "q": "Q693591",
+  "c": "DE",
+  "ko": "브레멘 미술관",
+  "en": "Kunsthalle Bremen",
+  "n": 160
+ },
+ {
+  "k": "ludwig",
+  "q": "Q703640",
+  "c": "DE",
+  "ko": "루트비히 미술관",
+  "en": "Museum Ludwig",
+  "n": 124
+ },
+ {
+  "k": "guggenheim",
+  "q": "Q201469",
+  "c": "US",
+  "ko": "구겐하임 미술관",
+  "en": "Solomon R. Guggenheim Museum",
+  "n": 186
+ },
+ {
+  "k": "ordrupgaard",
+  "q": "Q770918",
+  "c": "DK",
+  "ko": "오드룹고르 미술관",
+  "en": "Ordrupgaard",
+  "n": 79
+ },
+ {
+  "k": "charlottenburg",
+  "q": "Q154996",
+  "c": "DE",
+  "ko": "샤를로텐부르크 궁전",
+  "en": "Charlottenburg Palace",
+  "n": 28
+ },
+ {
+  "k": "sprengel",
+  "q": "Q510144",
+  "c": "DE",
+  "ko": "슈프렝겔 미술관",
+  "en": "Sprengel Museum",
+  "n": 50
+ },
+ {
+  "k": "liege",
+  "q": "Q80784",
+  "c": "BE",
+  "ko": "리에주 미술관",
+  "en": "Liège Fine Arts Museum",
+  "n": 81
+ },
+ {
+  "k": "apsley",
+  "q": "Q622206",
+  "c": "GB",
+  "ko": "앱슬리 하우스",
+  "en": "Apsley House",
+  "n": 193
+ },
+ {
+  "k": "hannover",
+  "q": "Q314082",
+  "c": "DE",
+  "ko": "하노버 주립 박물관",
+  "en": "Landesmuseum Hannover",
+  "n": 185
+ },
+ {
+  "k": "solothurn",
+  "q": "Q683163",
+  "c": "CH",
+  "ko": "졸로투른 미술관",
+  "en": "Kunstmuseum Solothurn",
+  "n": 21
+ },
+ {
+  "k": "modersohn",
+  "q": "Q318983",
+  "c": "DE",
+  "ko": "파울라 모더존베커 미술관",
+  "en": "Paula Modersohn-Becker Museum",
+  "n": 6
+ },
+ {
+  "k": "bulgaria",
+  "q": "Q2991178",
+  "c": "BG",
+  "ko": "불가리아 국립 미술관",
+  "en": "National Art Gallery of Bulgaria",
+  "n": 21
+ },
+ {
+  "k": "benaki",
+  "q": "Q816669",
+  "c": "GR",
+  "ko": "베나키 박물관",
+  "en": "Benaki Museum",
+  "n": 49
+ },
+ {
+  "k": "librarywales",
+  "q": "Q666063",
+  "c": "GB",
+  "ko": "National Library of Wales",
+  "en": "National Library of Wales",
+  "n": 946
+ },
+ {
+  "k": "ferens",
+  "q": "Q5444068",
+  "c": "GB",
+  "ko": "Ferens Art Gallery",
+  "en": "Ferens Art Gallery",
+  "n": 400
+ },
+ {
+  "k": "leeds",
+  "q": "Q6515835",
+  "c": "GB",
+  "ko": "리즈 미술관",
+  "en": "Leeds Art Gallery",
+  "n": 372
+ },
+ {
+  "k": "armenia",
+  "q": "Q2087788",
+  "c": "AM",
+  "ko": "아르메니아 국립미술관",
+  "en": "National Gallery of Armenia",
+  "n": 230
+ },
+ {
+  "k": "watts",
+  "q": "Q7975022",
+  "c": "GB",
+  "ko": "와츠 갤러리",
+  "en": "Watts Gallery",
+  "n": 229
+ },
+ {
+  "k": "nivaagaard",
+  "q": "Q10601378",
+  "c": "DK",
+  "ko": "Nivaagaard Museum",
+  "en": "Nivaagaard Museum",
+  "n": 219
+ },
+ {
+  "k": "mayervandenbergh",
+  "q": "Q1699233",
+  "c": "BE",
+  "ko": "마이어 판덴베르흐 미술관",
+  "en": "Museum Mayer van den Bergh",
+  "n": 215
+ },
+ {
+  "k": "nantes",
+  "q": "Q1783956",
+  "c": "FR",
+  "ko": "낭트 미술관",
+  "en": "Nantes Museum of Arts",
+  "n": 212
+ },
+ {
+  "k": "strasbourgmodernan",
+  "q": "Q845468",
+  "c": "FR",
+  "ko": "스트라스부르 근현대미술관",
+  "en": "Strasbourg Museum of Modern and Contemporary Art",
+  "n": 202
+ },
+ {
+  "k": "beauxrennes",
+  "q": "Q3098373",
+  "c": "FR",
+  "ko": "Musée des Beaux-Arts de Rennes",
+  "en": "Musée des Beaux-Arts de Rennes",
+  "n": 193
+ },
+ {
+  "k": "leidencollection",
+  "q": "Q15638014",
+  "c": "US",
+  "ko": "Leiden Collection",
+  "en": "Leiden Collection",
+  "n": 192
+ },
+ {
+  "k": "oldham",
+  "q": "Q5518996",
+  "c": "GB",
+  "ko": "갤러리 올덤",
+  "en": "Gallery Oldham",
+  "n": 184
+ },
+ {
+  "k": "granet",
+  "q": "Q965780",
+  "c": "FR",
+  "ko": "Musée Granet",
+  "en": "Musée Granet",
+  "n": 181
+ },
+ {
+  "k": "picardie",
+  "q": "Q3107709",
+  "c": "FR",
+  "ko": "Musée de Picardie",
+  "en": "Musée de Picardie",
+  "n": 179
+ },
+ {
+  "k": "wawelcastle",
+  "q": "Q18820",
+  "c": "PL",
+  "ko": "바벨성",
+  "en": "Wawel Castle",
+  "n": 184
+ },
+ {
+  "k": "lakenhal",
+  "q": "Q2098586",
+  "c": "",
+  "ko": "Museum De Lakenhal",
+  "en": "Museum De Lakenhal",
+  "n": 177
+ },
+ {
+  "k": "virginia",
+  "q": "Q4013975",
+  "c": "US",
+  "ko": "버지니아 미술관",
+  "en": "Virginia Museum of Fine Arts",
+  "n": 173
+ },
+ {
+  "k": "stedelijkamsterdam",
+  "q": "Q924335",
+  "c": "",
+  "ko": "암스테르담 시립 미술관",
+  "en": "Stedelijk Museum Amsterdam",
+  "n": 167
+ },
+ {
+  "k": "beauxmarseille",
+  "q": "Q83013",
+  "c": "FR",
+  "ko": "Musée des beaux-arts de Marseille",
+  "en": "Musée des beaux-arts de Marseille",
+  "n": 164
+ },
+ {
+  "k": "mleuven",
+  "q": "Q2362660",
+  "c": "BE",
+  "ko": "M Leuven",
+  "en": "M Leuven",
+  "n": 167
+ },
+ {
+  "k": "unterlinden",
+  "q": "Q1851283",
+  "c": "FR",
+  "ko": "운터린덴 미술관",
+  "en": "Unterlinden Museum",
+  "n": 161
+ },
+ {
+  "k": "sudleyhouse",
+  "q": "Q1290927",
+  "c": "GB",
+  "ko": "서들리 하우스",
+  "en": "Sudley House",
+  "n": 158
+ },
+ {
+  "k": "gallerieditaliamil",
+  "q": "Q2054135",
+  "c": "IT",
+  "ko": "Gallerie d'Italia – Milano",
+  "en": "Gallerie d'Italia – Milano",
+  "n": 155
+ },
+ {
+  "k": "barberinstitute",
+  "q": "Q4859590",
+  "c": "GB",
+  "ko": "바버 미술관",
+  "en": "Barber Institute of Fine Arts",
+  "n": 150
+ },
+ {
+  "k": "staatlichesschweri",
+  "q": "Q2324618",
+  "c": "DE",
+  "ko": "Staatliches Museum Schwerin",
+  "en": "Staatliches Museum Schwerin",
+  "n": 154
+ },
+ {
+  "k": "soumaya",
+  "q": "Q2097646",
+  "c": "MX",
+  "ko": "소우마야 미술관",
+  "en": "Museo Soumaya",
+  "n": 154
+ },
+ {
+  "k": "noordbrabants",
+  "q": "Q12013217",
+  "c": "",
+  "ko": "Noordbrabants Museum",
+  "en": "Noordbrabants Museum",
+  "n": 141
+ },
+ {
+  "k": "belarusian",
+  "q": "Q2584571",
+  "c": "BY",
+  "ko": "벨라루스 국립미술관",
+  "en": "Belarusian National Arts Museum",
+  "n": 140
+ },
+ {
+  "k": "rubenshuis",
+  "q": "Q775644",
+  "c": "BE",
+  "ko": "루벤스의 집",
+  "en": "Rubenshuis",
+  "n": 134
+ },
+ {
+  "k": "hirschsprungcollec",
+  "q": "Q2982867",
+  "c": "DK",
+  "ko": "히르슈프룽 컬렉션",
+  "en": "Hirschsprung Collection",
+  "n": 134
+ },
+ {
+  "k": "prussianpalacesand",
+  "q": "Q531772",
+  "c": "DE",
+  "ko": "Prussian Palaces and Gardens Foundation Berlin-Brandenburg",
+  "en": "Prussian Palaces and Gardens Foundation Berlin-Brandenburg",
+  "n": 162
+ },
+ {
+  "k": "johnpauliicollecti",
+  "q": "Q1229770",
+  "c": "PL",
+  "ko": "Museum of John Paul II Collection",
+  "en": "Museum of John Paul II Collection",
+  "n": 132
+ },
+ {
+  "k": "beauxpau",
+  "q": "Q3330217",
+  "c": "FR",
+  "ko": "Musée des Beaux-Arts de Pau",
+  "en": "Musée des Beaux-Arts de Pau",
+  "n": 132
+ },
+ {
+  "k": "daytoninstitute",
+  "q": "Q597355",
+  "c": "US",
+  "ko": "Dayton Art Institute",
+  "en": "Dayton Art Institute",
+  "n": 131
+ },
+ {
+  "k": "herbertand",
+  "q": "Q917262",
+  "c": "GB",
+  "ko": "허버트 미술박물관",
+  "en": "Herbert Art Gallery and Museum",
+  "n": 131
+ },
+ {
+  "k": "science",
+  "q": "Q674773",
+  "c": "GB",
+  "ko": "과학박물관",
+  "en": "Science Museum",
+  "n": 130
+ },
+ {
+  "k": "pennsylvaniaacadem",
+  "q": "Q1952033",
+  "c": "US",
+  "ko": "펜실베이니아 미술아카데미",
+  "en": "Pennsylvania Academy of the Fine Arts",
+  "n": 125
+ },
+ {
+  "k": "baltimore",
+  "q": "Q377579",
+  "c": "US",
+  "ko": "볼티모어 미술관",
+  "en": "Baltimore Museum of Art",
+  "n": 117
+ },
+ {
+  "k": "historyatfrederiks",
+  "q": "Q3078776",
+  "c": "DK",
+  "ko": "The Museum of National History at Frederiksborg Castle",
+  "en": "The Museum of National History at Frederiksborg Castle",
+  "n": 117
+ },
+ {
+  "k": "jeanwalterpaulguil",
+  "q": "Q60363894",
+  "c": "FR",
+  "ko": "Jean Walter-Paul Guillaume Collection",
+  "en": "Jean Walter-Paul Guillaume Collection",
+  "n": 115
+ },
+ {
+  "k": "milwaukee",
+  "q": "Q325712",
+  "c": "US",
+  "ko": "밀워키 미술관",
+  "en": "Milwaukee Art Museum",
+  "n": 114
+ },
+ {
+  "k": "beauxtours",
+  "q": "Q2404549",
+  "c": "FR",
+  "ko": "Musée des Beaux-Arts de Tours",
+  "en": "Musée des Beaux-Arts de Tours",
+  "n": 112
+ },
+ {
+  "k": "comptonverney",
+  "q": "Q20638782",
+  "c": "GB",
+  "ko": "Compton Verney Art Gallery",
+  "en": "Compton Verney Art Gallery",
+  "n": 108
+ },
+ {
+  "k": "thiel",
+  "q": "Q252259",
+  "c": "SE",
+  "ko": "Thiel Gallery",
+  "en": "Thiel Gallery",
+  "n": 106
+ },
+ {
+  "k": "fundacionbancosant",
+  "q": "Q18608337",
+  "c": "ES",
+  "ko": "Fundación Banco Santander",
+  "en": "Fundación Banco Santander",
+  "n": 105
+ },
+ {
+  "k": "leightonhouse",
+  "q": "Q6519762",
+  "c": "GB",
+  "ko": "레이턴 하우스",
+  "en": "Leighton House",
+  "n": 104
+ },
+ {
+  "k": "dartemodernamilano",
+  "q": "Q3757721",
+  "c": "IT",
+  "ko": "밀라노 근대미술관",
+  "en": "Galleria d'arte moderna di Milano",
+  "n": 104
+ },
+ {
+  "k": "museistradanuova",
+  "q": "Q3867551",
+  "c": "IT",
+  "ko": "Musei di Strada Nuova",
+  "en": "Musei di Strada Nuova",
+  "n": 139
+ },
+ {
+  "k": "kunstpalast",
+  "q": "Q461277",
+  "c": "DE",
+  "ko": "Museum Kunstpalast",
+  "en": "Museum Kunstpalast",
+  "n": 103
+ },
+ {
+  "k": "royalhollowayunive",
+  "q": "Q1202039",
+  "c": "GB",
+  "ko": "로얄 홀로웨이",
+  "en": "Royal Holloway, University of London",
+  "n": 102
+ },
+ {
+  "k": "ingresbourdelle",
+  "q": "Q2843748",
+  "c": "FR",
+  "ko": "Museum Ingres Bourdelle",
+  "en": "Museum Ingres Bourdelle",
+  "n": 102
+ },
+ {
+  "k": "beauxdorleans",
+  "q": "Q3330194",
+  "c": "FR",
+  "ko": "Musée des Beaux-Arts d'Orléans",
+  "en": "Musée des Beaux-Arts d'Orléans",
+  "n": 101
+ },
+ {
+  "k": "vonderheydt",
+  "q": "Q819504",
+  "c": "DE",
+  "ko": "Von der Heydt Museum",
+  "en": "Von der Heydt Museum",
+  "n": 101
+ },
+ {
+  "k": "bonnathelleu",
+  "q": "Q2620702",
+  "c": "FR",
+  "ko": "보나-엘뢰 미술관",
+  "en": "Musée Bonnat-Helleu",
+  "n": 99
+ },
+ {
+  "k": "beauxmulhouse",
+  "q": "Q3330211",
+  "c": "FR",
+  "ko": "뮐루즈 미술관",
+  "en": "Musée des beaux-arts de Mulhouse",
+  "n": 99
+ },
+ {
+  "k": "dartemoderna",
+  "q": "Q3094628",
+  "c": "IT",
+  "ko": "Galleria d'arte moderna",
+  "en": "Galleria d'arte moderna",
+  "n": 97
+ },
+ {
+  "k": "academyvienna",
+  "q": "Q414219",
+  "c": "AT",
+  "ko": "빈 미술 아카데미",
+  "en": "Academy of Fine Arts Vienna",
+  "n": 98
+ },
+ {
+  "k": "impressionismhasso",
+  "q": "Q106857407",
+  "c": "DE",
+  "ko": "Impressionism: The Hasso Plattner Collection",
+  "en": "Impressionism: The Hasso Plattner Collection",
+  "n": 95
+ },
+ {
+  "k": "niedersachsischesl",
+  "q": "Q1988652",
+  "c": "DE",
+  "ko": "Niedersächsisches Landesmuseum für Kunst und Kulturgeschichte",
+  "en": "Niedersächsisches Landesmuseum für Kunst und Kulturgeschichte",
+  "n": 99
+ },
+ {
+  "k": "whitehouse",
+  "q": "Q35525",
+  "c": "US",
+  "ko": "백악관",
+  "en": "White House",
+  "n": 96
+ },
+ {
+  "k": "imperialwarlondon",
+  "q": "Q749808",
+  "c": "GB",
+  "ko": "임페리얼 전쟁 박물관",
+  "en": "Imperial War Museum London",
+  "n": 94
+ },
+ {
+  "k": "pinacotecanazional",
+  "q": "Q2095405",
+  "c": "IT",
+  "ko": "Pinacoteca Nazionale, Siena",
+  "en": "Pinacoteca Nazionale, Siena",
+  "n": 92
+ },
+ {
+  "k": "goya",
+  "q": "Q246821",
+  "c": "FR",
+  "ko": "Goya Museum",
+  "en": "Goya Museum",
+  "n": 90
+ },
+ {
+  "k": "artizon",
+  "q": "Q913808",
+  "c": "JP",
+  "ko": "아티존 미술관",
+  "en": "Artizon Museum",
+  "n": 90
+ },
+ {
+  "k": "beauxcaen",
+  "q": "Q569079",
+  "c": "FR",
+  "ko": "Musée des Beaux-Arts de Caen",
+  "en": "Musée des Beaux-Arts de Caen",
+  "n": 89
+ },
+ {
+  "k": "deutscheshistorisc",
+  "q": "Q688335",
+  "c": "DE",
+  "ko": "독일 역사박물관",
+  "en": "Deutsches Historisches Museum",
+  "n": 86
+ },
+ {
+  "k": "18thcenturyvenice",
+  "q": "Q12130506",
+  "c": "IT",
+  "ko": "Museum of 18th-century Venice",
+  "en": "Museum of 18th-century Venice",
+  "n": 83
+ },
+ {
+  "k": "neuenationalgaleri",
+  "q": "Q32659772",
+  "c": "DE",
+  "ko": "신 국립미술관",
+  "en": "Neue Nationalgalerie",
+  "n": 82
+ },
+ {
+  "k": "chateaucompiegne",
+  "q": "Q516697",
+  "c": "FR",
+  "ko": "Château de Compiègne",
+  "en": "Château de Compiègne",
+  "n": 82
+ },
+ {
+  "k": "sabauda",
+  "q": "Q2245152",
+  "c": "IT",
+  "ko": "Galleria Sabauda",
+  "en": "Galleria Sabauda",
+  "n": 81
+ },
+ {
+  "k": "phoenix",
+  "q": "Q977015",
+  "c": "US",
+  "ko": "Phoenix Art Museum",
+  "en": "Phoenix Art Museum",
+  "n": 79
+ },
+ {
+  "k": "moravianinbrno",
+  "q": "Q3094617",
+  "c": "CZ",
+  "ko": "Moravian Gallery in Brno",
+  "en": "Moravian Gallery in Brno",
+  "n": 78
+ },
+ {
+  "k": "telaviv",
+  "q": "Q1267958",
+  "c": "IL",
+  "ko": "텔아비브 미술관",
+  "en": "Tel Aviv Museum of Art",
+  "n": 76
+ },
+ {
+  "k": "georgschafer",
+  "q": "Q880898",
+  "c": "DE",
+  "ko": "Museum Georg Schäfer",
+  "en": "Museum Georg Schäfer",
+  "n": 76
+ },
+ {
+  "k": "estense",
+  "q": "Q774128",
+  "c": "IT",
+  "ko": "Galleria Estense",
+  "en": "Galleria Estense",
+  "n": 74
+ },
+ {
+  "k": "dmoderneparis",
+  "q": "Q857276",
+  "c": "FR",
+  "ko": "파리시립현대미술관",
+  "en": "Musée d'art moderne de Paris",
+  "n": 74
+ },
+ {
+  "k": "stavanger",
+  "q": "Q19382034",
+  "c": "NO",
+  "ko": "Museum Stavanger",
+  "en": "Museum Stavanger",
+  "n": 72
+ },
+ {
+  "k": "tatarstanstate",
+  "q": "Q4146878",
+  "c": "RU",
+  "ko": "Tatarstan State Museum of Fine Arts",
+  "en": "Tatarstan State Museum of Fine Arts",
+  "n": 70
+ },
+ {
+  "k": "johnandmableringli",
+  "q": "Q612530",
+  "c": "US",
+  "ko": "John and Mable Ringling Museum of Art",
+  "en": "John and Mable Ringling Museum of Art",
+  "n": 70
+ },
+ {
+  "k": "thorvaldsen",
+  "q": "Q1992413",
+  "c": "DK",
+  "ko": "토르발센 박물관",
+  "en": "Thorvaldsen Museum",
+  "n": 69
+ },
+ {
+  "k": "chrysler",
+  "q": "Q5114675",
+  "c": "US",
+  "ko": "Chrysler Museum of Art",
+  "en": "Chrysler Museum of Art",
+  "n": 68
+ },
+ {
+  "k": "pinacotecaquerinis",
+  "q": "Q7194793",
+  "c": "IT",
+  "ko": "Pinacoteca Querini Stampalia",
+  "en": "Pinacoteca Querini Stampalia",
+  "n": 63
+ },
+ {
+  "k": "pomeranianstate",
+  "q": "Q1639759",
+  "c": "DE",
+  "ko": "포메라니아 주립 박물관",
+  "en": "Pomeranian State Museum",
+  "n": 62
+ },
+ {
+  "k": "civicoalaponzone",
+  "q": "Q6940464",
+  "c": "IT",
+  "ko": "Museo Civico Ala Ponzone",
+  "en": "Museo Civico Ala Ponzone",
+  "n": 61
+ },
+ {
+  "k": "brukenthal",
+  "q": "Q850207",
+  "c": "RO",
+  "ko": "Brukenthal National Museum",
+  "en": "Brukenthal National Museum",
+  "n": 60
+ },
+ {
+  "k": "portland",
+  "q": "Q279049",
+  "c": "US",
+  "ko": "포틀랜드 미술관",
+  "en": "Portland Art Museum",
+  "n": 59
+ },
+ {
+  "k": "dartmodernetroyes",
+  "q": "Q3329650",
+  "c": "FR",
+  "ko": "Musée d’Art moderne de Troyes",
+  "en": "Musée d’Art moderne de Troyes",
+  "n": 58
+ },
+ {
+  "k": "thomashenry",
+  "q": "Q3329368",
+  "c": "FR",
+  "ko": "Musée Thomas-Henry",
+  "en": "Musée Thomas-Henry",
+  "n": 57
+ },
+ {
+  "k": "kievpicture",
+  "q": "Q3398581",
+  "c": "UA",
+  "ko": "Kiev National Picture Gallery",
+  "en": "Kiev National Picture Gallery",
+  "n": 57
+ },
+ {
+  "k": "vienna",
+  "q": "Q505873",
+  "c": "AT",
+  "ko": "Vienna Museum",
+  "en": "Vienna Museum",
+  "n": 63
+ },
+ {
+  "k": "gainsboroughshouse",
+  "q": "Q16981573",
+  "c": "GB",
+  "ko": "Gainsborough's House",
+  "en": "Gainsborough's House",
+  "n": 55
+ },
+ {
+  "k": "herbertfjohnson",
+  "q": "Q5734055",
+  "c": "US",
+  "ko": "허버트 F. 존슨 미술관",
+  "en": "Herbert F. Johnson Museum of Art",
+  "n": 55
+ },
+ {
+  "k": "buildingwinterthur",
+  "q": "Q650299",
+  "c": "CH",
+  "ko": "Building of the Winterthur Museum of Art",
+  "en": "Building of the Winterthur Museum of Art",
+  "n": 54
+ },
+ {
+  "k": "schlossweienstein",
+  "q": "Q179062",
+  "c": "DE",
+  "ko": "Schloss Weißenstein",
+  "en": "Schloss Weißenstein",
+  "n": 53
+ },
+ {
+  "k": "umbria",
+  "q": "Q2739127",
+  "c": "IT",
+  "ko": "National Gallery of Umbria",
+  "en": "National Gallery of Umbria",
+  "n": 53
+ },
+ {
+  "k": "tosiomartinengo",
+  "q": "Q3388589",
+  "c": "IT",
+  "ko": "Tosio Martinengo Gallery",
+  "en": "Tosio Martinengo Gallery",
+  "n": 52
+ },
+ {
+  "k": "schlossweimar",
+  "q": "Q878253",
+  "c": "DE",
+  "ko": "Schloss Weimar",
+  "en": "Schloss Weimar",
+  "n": 51
+ },
+ {
+  "k": "saragossa",
+  "q": "Q2837755",
+  "c": "ES",
+  "ko": "Saragossa Museum",
+  "en": "Saragossa Museum",
+  "n": 50
+ },
+ {
+  "k": "kunsthallemannheim",
+  "q": "Q468458",
+  "c": "DE",
+  "ko": "만하임 미술관",
+  "en": "Kunsthalle Mannheim",
+  "n": 50
+ },
+ {
+  "k": "dellaccademia",
+  "q": "Q10855544",
+  "c": "IT",
+  "ko": "아카데미아 미술관",
+  "en": "Galleria dell'Accademia",
+  "n": 49
+ },
+ {
+  "k": "montserrat",
+  "q": "Q428559",
+  "c": "ES",
+  "ko": "몬세라트 박물관",
+  "en": "Museum of Montserrat",
+  "n": 49
+ },
+ {
+  "k": "turku",
+  "q": "Q4502138",
+  "c": "FI",
+  "ko": "Turku Art Museum",
+  "en": "Turku Art Museum",
+  "n": 49
+ },
+ {
+  "k": "azerbaijan",
+  "q": "Q2559128",
+  "c": "AZ",
+  "ko": "아제르바이잔 국립미술관",
+  "en": "National Art Museum of Azerbaijan",
+  "n": 48
+ },
+ {
+  "k": "hammer",
+  "q": "Q677561",
+  "c": "US",
+  "ko": "해머 미술관",
+  "en": "Hammer Museum",
+  "n": 48
+ },
+ {
+  "k": "dogespalace",
+  "q": "Q189883",
+  "c": "IT",
+  "ko": "두칼레 궁전",
+  "en": "Doge's Palace",
+  "n": 47
+ },
+ {
+  "k": "allenmemorial",
+  "q": "Q3816734",
+  "c": "US",
+  "ko": "Allen Memorial Art Museum",
+  "en": "Allen Memorial Art Museum",
+  "n": 47
+ },
+ {
+  "k": "beyelerfoundation",
+  "q": "Q673833",
+  "c": "CH",
+  "ko": "바이엘러 재단",
+  "en": "Beyeler Foundation",
+  "n": 47
+ },
+ {
+  "k": "sculpture",
+  "q": "Q1581475",
+  "c": "ES",
+  "ko": "National Museum of Sculpture",
+  "en": "National Museum of Sculpture",
+  "n": 45
+ },
+ {
+  "k": "hirshhornandsculpt",
+  "q": "Q1620553",
+  "c": "US",
+  "ko": "허시혼 박물관과 조각 정원",
+  "en": "Hirshhorn Museum and Sculpture Garden",
+  "n": 44
+ },
+ {
+  "k": "salarjung",
+  "q": "Q1864572",
+  "c": "IN",
+  "ko": "Salar Jung Museum",
+  "en": "Salar Jung Museum",
+  "n": 44
+ },
+ {
+  "k": "accademiasanluca",
+  "q": "Q338523",
+  "c": "IT",
+  "ko": "Accademia di San Luca",
+  "en": "Accademia di San Luca",
+  "n": 44
+ },
+ {
+  "k": "timken",
+  "q": "Q585462",
+  "c": "US",
+  "ko": "팀켄 미술관",
+  "en": "Timken Museum of Art",
+  "n": 44
+ },
+ {
+  "k": "bolognacitycollect",
+  "q": "Q3683063",
+  "c": "IT",
+  "ko": "Bologna City Art Collections",
+  "en": "Bologna City Art Collections",
+  "n": 43
+ },
+ {
+  "k": "seattle",
+  "q": "Q1816301",
+  "c": "US",
+  "ko": "시애틀 미술관",
+  "en": "Seattle Art Museum",
+  "n": 42
+ },
+ {
+  "k": "amoncarteramerican",
+  "q": "Q255559",
+  "c": "US",
+  "ko": "Amon Carter Museum of American Art",
+  "en": "Amon Carter Museum of American Art",
+  "n": 42
+ },
+ {
+  "k": "joslyn",
+  "q": "Q1372546",
+  "c": "US",
+  "ko": "조슬린 미술관",
+  "en": "Joslyn Art Museum",
+  "n": 41
+ },
+ {
+  "k": "massey",
+  "q": "Q3329271",
+  "c": "FR",
+  "ko": "Musée Massey",
+  "en": "Musée Massey",
+  "n": 41
+ },
+ {
+  "k": "memorial",
+  "q": "Q6815343",
+  "c": "US",
+  "ko": "기념 미술관",
+  "en": "Memorial Art Gallery",
+  "n": 40
+ },
+ {
+  "k": "feodosiaikaivazovs",
+  "q": "Q4314838",
+  "c": "UA",
+  "ko": "Feodosia National Gallery I. K. Aivazovsky",
+  "en": "Feodosia National Gallery I. K. Aivazovsky",
+  "n": 39
+ },
+ {
+  "k": "serbia",
+  "q": "Q1277393",
+  "c": "RS",
+  "ko": "세르비아 국립박물관",
+  "en": "National Museum of Serbia",
+  "n": 38
+ },
+ {
+  "k": "neworleans",
+  "q": "Q2063082",
+  "c": "US",
+  "ko": "뉴올리언스 미술관",
+  "en": "New Orleans Museum of Art",
+  "n": 38
+ },
+ {
+  "k": "klassikstiftungwei",
+  "q": "Q315452",
+  "c": "DE",
+  "ko": "Klassik Stiftung Weimar",
+  "en": "Klassik Stiftung Weimar",
+  "n": 40
+ },
+ {
+  "k": "nizhnynovgorodstat",
+  "q": "Q4318653",
+  "c": "RU",
+  "ko": "Nizhny Novgorod State Art Museum",
+  "en": "Nizhny Novgorod State Art Museum",
+  "n": 38
+ },
+ {
+  "k": "centroartemodernag",
+  "q": "Q1054339",
+  "c": "PT",
+  "ko": "Centro de Arte Moderna Gulbenkian",
+  "en": "Centro de Arte Moderna Gulbenkian",
+  "n": 37
+ },
+ {
+  "k": "modernamuseet",
+  "q": "Q1274511",
+  "c": "SE",
+  "ko": "근대미술관",
+  "en": "Moderna Museet",
+  "n": 37
+ },
+ {
+  "k": "kunsthallekiel",
+  "q": "Q327540",
+  "c": "DE",
+  "ko": "Kunsthalle Kiel",
+  "en": "Kunsthalle Kiel",
+  "n": 37
+ },
+ {
+  "k": "tarasshevchenko",
+  "q": "Q12132920",
+  "c": "UA",
+  "ko": "Taras Shevchenko National Museum",
+  "en": "Taras Shevchenko National Museum",
+  "n": 36
+ },
+ {
+  "k": "santissimaannunzia",
+  "q": "Q2287001",
+  "c": "IT",
+  "ko": "산티시마 안눈치아타 성당",
+  "en": "Santissima Annunziata",
+  "n": 36
+ },
+ {
+  "k": "sanssoucipicture",
+  "q": "Q451555",
+  "c": "DE",
+  "ko": "Sanssouci Picture Gallery",
+  "en": "Sanssouci Picture Gallery",
+  "n": 36
+ },
+ {
+  "k": "drogerquilliot",
+  "q": "Q1495869",
+  "c": "FR",
+  "ko": "Musée d'Art Roger-Quilliot",
+  "en": "Musée d'Art Roger-Quilliot",
+  "n": 35
+ },
+ {
+  "k": "tesse",
+  "q": "Q3329758",
+  "c": "FR",
+  "ko": "Musée de Tessé",
+  "en": "Musée de Tessé",
+  "n": 35
+ },
+ {
+  "k": "denmark",
+  "q": "Q648166",
+  "c": "DK",
+  "ko": "국립박물관",
+  "en": "National Museum of Denmark",
+  "n": 35
+ },
+ {
+  "k": "internazionaledart",
+  "q": "Q3940563",
+  "c": "IT",
+  "ko": "Galleria Internazionale d'Arte Moderna",
+  "en": "Galleria Internazionale d'Arte Moderna",
+  "n": 34
+ },
+ {
+  "k": "jeanleongerome",
+  "q": "Q3329173",
+  "c": "FR",
+  "ko": "장레옹 제롬 박물관",
+  "en": "musée Jean-Léon Gérôme",
+  "n": 33
+ },
+ {
+  "k": "singerlaren",
+  "q": "Q431431",
+  "c": "",
+  "ko": "싱어 라런",
+  "en": "Singer Laren",
+  "n": 32
+ },
+ {
+  "k": "scientificresearch",
+  "q": "Q4314524",
+  "c": "RU",
+  "ko": "Scientific-research Museum of the Russian Academy of Arts",
+  "en": "Scientific-research Museum of the Russian Academy of Arts",
+  "n": 32
+ },
+ {
+  "k": "palazzobianco",
+  "q": "Q1808872",
+  "c": "IT",
+  "ko": "Palazzo Bianco",
+  "en": "Palazzo Bianco",
+  "n": 31
+ },
+ {
+  "k": "philbrook",
+  "q": "Q2997830",
+  "c": "US",
+  "ko": "Philbrook Museum of Art",
+  "en": "Philbrook Museum of Art",
+  "n": 31
+ },
+ {
+  "k": "nazionalesanmartin",
+  "q": "Q3329345",
+  "c": "IT",
+  "ko": "산 마르티노 국립박물관",
+  "en": "Museo Nazionale di San Martino",
+  "n": 31
+ },
+ {
+  "k": "hiroshima",
+  "q": "Q63828",
+  "c": "JP",
+  "ko": "히로시마 미술관",
+  "en": "Hiroshima Museum of Art",
+  "n": 31
+ },
+ {
+  "k": "womenin",
+  "q": "Q861608",
+  "c": "US",
+  "ko": "국립 여성 예술가 미술관",
+  "en": "National Museum of Women in the Arts",
+  "n": 31
+ },
+ {
+  "k": "scuolagrandesanroc",
+  "q": "Q1270723",
+  "c": "IT",
+  "ko": "Scuola Grande di San Rocco",
+  "en": "Scuola Grande di San Rocco",
+  "n": 30
+ },
+ {
+  "k": "victoriamemorial",
+  "q": "Q1356352",
+  "c": "IN",
+  "ko": "Victoria Memorial",
+  "en": "Victoria Memorial",
+  "n": 31
+ },
+ {
+  "k": "santacruz",
+  "q": "Q2274725",
+  "c": "ES",
+  "ko": "Museum of Santa Cruz",
+  "en": "Museum of Santa Cruz",
+  "n": 30
+ },
+ {
+  "k": "royalpalacemadrid",
+  "q": "Q171517",
+  "c": "ES",
+  "ko": "마드리드 왕궁",
+  "en": "Royal Palace of Madrid",
+  "n": 29
+ },
+ {
+  "k": "pinacotecanazional2",
+  "q": "Q18810184",
+  "c": "IT",
+  "ko": "Pinacoteca Nazionale",
+  "en": "Pinacoteca Nazionale",
+  "n": 29
+ },
+ {
+  "k": "randers",
+  "q": "Q3615336",
+  "c": "DK",
+  "ko": "Randers Museum of Art",
+  "en": "Randers Museum of Art",
+  "n": 29
+ },
+ {
+  "k": "saintecroix",
+  "q": "Q772297",
+  "c": "FR",
+  "ko": "Musée Sainte-Croix",
+  "en": "Musée Sainte-Croix",
+  "n": 29
+ },
+ {
+  "k": "explorationsmonde",
+  "q": "Q3329886",
+  "c": "FR",
+  "ko": "Musée des Explorations du Monde",
+  "en": "Musée des Explorations du Monde",
+  "n": 28
+ },
+ {
+  "k": "chatsworthhouse",
+  "q": "Q1068289",
+  "c": "GB",
+  "ko": "Chatsworth House",
+  "en": "Chatsworth House",
+  "n": 27
+ },
+ {
+  "k": "keblecollege",
+  "q": "Q1276338",
+  "c": "GB",
+  "ko": "Keble College",
+  "en": "Keble College",
+  "n": 27
+ },
+ {
+  "k": "modern",
+  "q": "Q1338832",
+  "c": "IN",
+  "ko": "National Gallery of Modern Art",
+  "en": "National Gallery of Modern Art",
+  "n": 27
+ },
+ {
+  "k": "archeologyhistorya",
+  "q": "Q2585886",
+  "c": "LU",
+  "ko": "국립 역사 미술 박물관",
+  "en": "National Museum of Archeology, History and Art",
+  "n": 27
+ },
+ {
+  "k": "capesaro",
+  "q": "Q756807",
+  "c": "IT",
+  "ko": "카 페사로",
+  "en": "Ca' Pesaro",
+  "n": 26
+ },
+ {
+  "k": "addisonamerican",
+  "q": "Q4681251",
+  "c": "US",
+  "ko": "Addison Gallery of American Art",
+  "en": "Addison Gallery of American Art",
+  "n": 26
+ },
+ {
+  "k": "khanenko",
+  "q": "Q1428076",
+  "c": "UA",
+  "ko": "Khanenko Museum",
+  "en": "Khanenko Museum",
+  "n": 25
+ },
+ {
+  "k": "lithuanian",
+  "q": "Q1865041",
+  "c": "LT",
+  "ko": "Lithuanian National Museum of Art",
+  "en": "Lithuanian National Museum of Art",
+  "n": 25
+ },
+ {
+  "k": "grobetlabadie",
+  "q": "Q3329184",
+  "c": "FR",
+  "ko": "그로베-라바디에 박물관",
+  "en": "Musée Grobet-Labadié",
+  "n": 25
+ },
+ {
+  "k": "mead",
+  "q": "Q6803132",
+  "c": "US",
+  "ko": "미드 미술관",
+  "en": "Mead Art Museum",
+  "n": 25
+ },
+ {
+  "k": "friedensteincastle",
+  "q": "Q875568",
+  "c": "DE",
+  "ko": "Friedenstein Castle",
+  "en": "Friedenstein Castle",
+  "n": 150
+ },
+ {
+  "k": "circuloliceo",
+  "q": "Q11913536",
+  "c": "ES",
+  "ko": "Círculo del Liceo",
+  "en": "Círculo del Liceo",
+  "n": 24
+ },
+ {
+  "k": "meadows",
+  "q": "Q3303786",
+  "c": "US",
+  "ko": "Meadows Museum",
+  "en": "Meadows Museum",
+  "n": 24
+ },
+ {
+  "k": "palazzodeidiamanti",
+  "q": "Q2047639",
+  "c": "IT",
+  "ko": "Palazzo dei Diamanti",
+  "en": "Palazzo dei Diamanti",
+  "n": 23
+ },
+ {
+  "k": "odesa",
+  "q": "Q4331480",
+  "c": "UA",
+  "ko": "Odesa Fine Arts Museum",
+  "en": "Odesa Fine Arts Museum",
+  "n": 23
+ },
+ {
+  "k": "sanfranciscomodern",
+  "q": "Q913672",
+  "c": "US",
+  "ko": "샌프란시스코 현대미술관",
+  "en": "San Francisco Museum of Modern Art",
+  "n": 23
+ },
+ {
+  "k": "chimei",
+  "q": "Q5095087",
+  "c": "TW",
+  "ko": "치메이 박물관",
+  "en": "Chimei Museum",
+  "n": 22
+ },
+ {
+  "k": "normanrockwell",
+  "q": "Q713204",
+  "c": "US",
+  "ko": "노먼 록웰 박물관",
+  "en": "Norman Rockwell Museum",
+  "n": 22
+ },
+ {
+  "k": "taft",
+  "q": "Q7675043",
+  "c": "US",
+  "ko": "Taft Museum of Art",
+  "en": "Taft Museum of Art",
+  "n": 22
+ },
+ {
+  "k": "igrejasaoroque",
+  "q": "Q1078864",
+  "c": "PT",
+  "ko": "Igreja de São Roque",
+  "en": "Igreja de São Roque",
+  "n": 21
+ },
+ {
+  "k": "sanmatteo",
+  "q": "Q1081881",
+  "c": "IT",
+  "ko": "National Museum of San Matteo",
+  "en": "National Museum of San Matteo",
+  "n": 21
+ },
+ {
+  "k": "vanabbemuseum",
+  "q": "Q1782422",
+  "c": "",
+  "ko": "Van Abbemuseum",
+  "en": "Van Abbemuseum",
+  "n": 21
+ },
+ {
+  "k": "courbet",
+  "q": "Q3329121",
+  "c": "FR",
+  "ko": "쿠르베 박물관",
+  "en": "musée Courbet",
+  "n": 21
+ },
+ {
+  "k": "saarland",
+  "q": "Q829296",
+  "c": "DE",
+  "ko": "Saarland Museum",
+  "en": "Saarland Museum",
+  "n": 22
+ },
+ {
+  "k": "jagiellonianuniver",
+  "q": "Q11787234",
+  "c": "PL",
+  "ko": "Jagiellonian University Museum",
+  "en": "Jagiellonian University Museum",
+  "n": 19
+ },
+ {
+  "k": "cohue",
+  "q": "Q3329891",
+  "c": "FR",
+  "ko": "musée de la Cohue",
+  "en": "musée de la Cohue",
+  "n": 19
+ },
+ {
+  "k": "sixcollection",
+  "q": "Q2370540",
+  "c": "",
+  "ko": "Six Collection",
+  "en": "Six Collection",
+  "n": 20
+ },
+ {
+  "k": "diocesanincortona",
+  "q": "Q3330320",
+  "c": "IT",
+  "ko": "Diocesan Museum in Cortona",
+  "en": "Diocesan Museum in Cortona",
+  "n": 19
+ },
+ {
+  "k": "lorrain",
+  "q": "Q3330634",
+  "c": "FR",
+  "ko": "Musée Lorrain",
+  "en": "Musée Lorrain",
+  "n": 19
+ },
+ {
+  "k": "kharkiv",
+  "q": "Q4496358",
+  "c": "UA",
+  "ko": "하르키우 미술관",
+  "en": "Fine Arts Museum Kharkiv",
+  "n": 19
+ },
+ {
+  "k": "spencer",
+  "q": "Q1601838",
+  "c": "US",
+  "ko": "스펜서 미술관",
+  "en": "Spencer Museum of Art",
+  "n": 18
+ },
+ {
+  "k": "mohamedmahmoudkhal",
+  "q": "Q4115728",
+  "c": "EG",
+  "ko": "Mohamed Mahmoud Khalil Museum",
+  "en": "Mohamed Mahmoud Khalil Museum",
+  "n": 18
+ },
+ {
+  "k": "delloperametropoli",
+  "q": "Q869130",
+  "c": "IT",
+  "ko": "두오모 오페라 미술관",
+  "en": "Museo dell'Opera Metropolitana del Duomo",
+  "n": 18
+ },
+ {
+  "k": "norton",
+  "q": "Q3878590",
+  "c": "US",
+  "ko": "노턴 미술관",
+  "en": "Norton Museum of Art",
+  "n": 17
+ },
+ {
+  "k": "rolin",
+  "q": "Q391823",
+  "c": "FR",
+  "ko": "Musée Rolin",
+  "en": "Musée Rolin",
+  "n": 17
+ },
+ {
+  "k": "chateaublois",
+  "q": "Q4055",
+  "c": "FR",
+  "ko": "블루아성",
+  "en": "Château de Blois",
+  "n": 17
+ },
+ {
+  "k": "newark",
+  "q": "Q4328346",
+  "c": "US",
+  "ko": "The Newark Museum of Art",
+  "en": "The Newark Museum of Art",
+  "n": 17
+ },
+ {
+  "k": "tehrancontemporary",
+  "q": "Q1756399",
+  "c": "IR",
+  "ko": "테헤란 현대미술관",
+  "en": "Tehran Museum of Contemporary Art",
+  "n": 16
+ },
+ {
+  "k": "palazzocolonna",
+  "q": "Q1971299",
+  "c": "IT",
+  "ko": "Palazzo Colonna",
+  "en": "Palazzo Colonna",
+  "n": 16
+ },
+ {
+  "k": "pinacotecacivicafr",
+  "q": "Q3905105",
+  "c": "IT",
+  "ko": "Pinacoteca civica \"Francesco Podesti\"",
+  "en": "Pinacoteca civica \"Francesco Podesti\"",
+  "n": 16
+ },
+ {
+  "k": "sevillecathedral",
+  "q": "Q231606",
+  "c": "ES",
+  "ko": "세비야 대성당",
+  "en": "Seville Cathedral",
+  "n": 16
+ },
+ {
+  "k": "liaoningprovincial",
+  "q": "Q3330767",
+  "c": "CN",
+  "ko": "Liaoning Provincial Museum",
+  "en": "Liaoning Provincial Museum",
+  "n": 16
+ },
+ {
+  "k": "madonnadellorto",
+  "q": "Q861436",
+  "c": "IT",
+  "ko": "Madonna dell'Orto",
+  "en": "Madonna dell'Orto",
+  "n": 16
+ },
+ {
+  "k": "villamediceapoggio",
+  "q": "Q733389",
+  "c": "IT",
+  "ko": "Villa Medicea of Poggio a Caiano",
+  "en": "Villa Medicea of Poggio a Caiano",
+  "n": 15
+ },
+ {
+  "k": "lobkowiczcollectio",
+  "q": "Q27922184",
+  "c": "CZ",
+  "ko": "The Lobkowicz Collections",
+  "en": "The Lobkowicz Collections",
+  "n": 15
+ },
+ {
+  "k": "piomontemisericord",
+  "q": "Q3737242",
+  "c": "IT",
+  "ko": "Pio Monte della Misericordia",
+  "en": "Pio Monte della Misericordia",
+  "n": 15
+ },
+ {
+  "k": "eskenazi",
+  "q": "Q6023573",
+  "c": "US",
+  "ko": "인디애나 대학교 에스케나지 미술관",
+  "en": "Eskenazi Museum of Art",
+  "n": 15
+ },
+ {
+  "k": "towneleyhalland",
+  "q": "Q7830101",
+  "c": "GB",
+  "ko": "타운리 공원",
+  "en": "Towneley Hall Art Gallery and Museum",
+  "n": 15
+ },
+ {
+  "k": "finland",
+  "q": "Q1418136",
+  "c": "FI",
+  "ko": "National Museum of Finland",
+  "en": "National Museum of Finland",
+  "n": 14
+ },
+ {
+  "k": "liriapalace",
+  "q": "Q3288223",
+  "c": "ES",
+  "ko": "Liria Palace",
+  "en": "Liria Palace",
+  "n": 14
+ },
+ {
+  "k": "fundacioncasaalba",
+  "q": "Q5871160",
+  "c": "ES",
+  "ko": "Fundación Casa de Alba",
+  "en": "Fundación Casa de Alba",
+  "n": 14
+ },
+ {
+  "k": "museessens",
+  "q": "Q3329751",
+  "c": "FR",
+  "ko": "Musées de Sens",
+  "en": "Musées de Sens",
+  "n": 14
+ },
+ {
+  "k": "civicmuseumspadua",
+  "q": "Q3867519",
+  "c": "IT",
+  "ko": "Civic Museums of Padua",
+  "en": "Civic Museums of Padua",
+  "n": 16
+ },
+ {
+  "k": "adrianobernareggi",
+  "q": "Q3867569",
+  "c": "IT",
+  "ko": "Museum Adriano Bernareggi",
+  "en": "Museum Adriano Bernareggi",
+  "n": 14
+ },
+ {
+  "k": "horne",
+  "q": "Q531218",
+  "c": "IT",
+  "ko": "Museo Horne",
+  "en": "Museo Horne",
+  "n": 14
+ },
+ {
+  "k": "sanzaccaria",
+  "q": "Q794876",
+  "c": "IT",
+  "ko": "San Zaccaria",
+  "en": "San Zaccaria",
+  "n": 14
+ },
+ {
+  "k": "peggyguggenheimcol",
+  "q": "Q1049033",
+  "c": "IT",
+  "ko": "페기 구겐하임 컬렉션",
+  "en": "Peggy Guggenheim Collection",
+  "n": 13
+ },
+ {
+  "k": "santigiovanniepaol",
+  "q": "Q155225",
+  "c": "IT",
+  "ko": "산티 조반니 에 파올로 성당",
+  "en": "Santi Giovanni e Paolo",
+  "n": 13
+ },
+ {
+  "k": "muskegon",
+  "q": "Q18342548",
+  "c": "US",
+  "ko": "Muskegon Museum of Art",
+  "en": "Muskegon Museum of Art",
+  "n": 13
+ },
+ {
+  "k": "departementaldanci",
+  "q": "Q3330515",
+  "c": "FR",
+  "ko": "Musée départemental d'Art ancien et contemporain",
+  "en": "Musée départemental d'Art ancien et contemporain",
+  "n": 13
+ },
+ {
+  "k": "picturegirolamini",
+  "q": "Q3926590",
+  "c": "IT",
+  "ko": "Picture gallery of the Girolamini",
+  "en": "Picture gallery of the Girolamini",
+  "n": 13
+ },
+ {
+  "k": "moinescenter",
+  "q": "Q5263501",
+  "c": "US",
+  "ko": "Des Moines Art Center",
+  "en": "Des Moines Art Center",
+  "n": 12
+ },
+ {
+  "k": "raclinmurphy",
+  "q": "Q12069361",
+  "c": "US",
+  "ko": "Raclin Murphy Museum of Art",
+  "en": "Raclin Murphy Museum of Art",
+  "n": 12
+ },
+ {
+  "k": "santamariacarmine",
+  "q": "Q1042634",
+  "c": "IT",
+  "ko": "산타 마리아 델 카르미네 성당",
+  "en": "Santa Maria del Carmine",
+  "n": 13
+ },
+ {
+  "k": "heinzkisterscollec",
+  "q": "Q18715647",
+  "c": "DE",
+  "ko": "Heinz Kisters Collection",
+  "en": "Heinz Kisters Collection",
+  "n": 12
+ },
+ {
+  "k": "kyoto",
+  "q": "Q147286",
+  "c": "JP",
+  "ko": "교토 국립박물관",
+  "en": "Kyoto National Museum",
+  "n": 12
+ },
+ {
+  "k": "napoleonic",
+  "q": "Q15141205",
+  "c": "IT",
+  "ko": "Napoleonic Museum",
+  "en": "Napoleonic Museum",
+  "n": 12
+ },
+ {
+  "k": "olanastatehistoric",
+  "q": "Q2018138",
+  "c": "US",
+  "ko": "Olana State Historic Site",
+  "en": "Olana State Historic Site",
+  "n": 12
+ },
+ {
+  "k": "ancutcastle",
+  "q": "Q773316",
+  "c": "PL",
+  "ko": "Łańcut Castle",
+  "en": "Łańcut Castle",
+  "n": 12
+ },
+ {
+  "k": "siegerlandmuseumin",
+  "q": "Q96278306",
+  "c": "DE",
+  "ko": "Siegerlandmuseum in “Upper Palace”",
+  "en": "Siegerlandmuseum in “Upper Palace”",
+  "n": 12
+ },
+ {
+  "k": "casabuonarroti",
+  "q": "Q2418618",
+  "c": "IT",
+  "ko": "카사 부오나로티",
+  "en": "Casa Buonarroti",
+  "n": 11
+ },
+ {
+  "k": "civicpalazzomosca",
+  "q": "Q3867515",
+  "c": "IT",
+  "ko": "Civic Museum of Palazzo Mosca",
+  "en": "Civic Museum of Palazzo Mosca",
+  "n": 11
+ },
+ {
+  "k": "royalcollections",
+  "q": "Q6033986",
+  "c": "ES",
+  "ko": "Royal Collections Gallery",
+  "en": "Royal Collections Gallery",
+  "n": 11
+ },
+ {
+  "k": "senatespain",
+  "q": "Q855343",
+  "c": "ES",
+  "ko": "스페인 상원",
+  "en": "Senate of Spain",
+  "n": 11
+ },
+ {
+  "k": "burghleyhouse",
+  "q": "Q1015079",
+  "c": "GB",
+  "ko": "Burghley House",
+  "en": "Burghley House",
+  "n": 10
+ },
+ {
+  "k": "odesawesternandeas",
+  "q": "Q12130550",
+  "c": "UA",
+  "ko": "Odesa Museum of Western and Eastern Art",
+  "en": "Odesa Museum of Western and Eastern Art",
+  "n": 10
+ },
+ {
+  "k": "cavallinisgarbifou",
+  "q": "Q18809941",
+  "c": "IT",
+  "ko": "Cavallini Sgarbi Foundation",
+  "en": "Cavallini Sgarbi Foundation",
+  "n": 10
+ },
+ {
+  "k": "belfiuscollection",
+  "q": "Q2962290",
+  "c": "BE",
+  "ko": "Belfius Art Collection",
+  "en": "Belfius Art Collection",
+  "n": 10
+ },
+ {
+  "k": "madridhistory",
+  "q": "Q876383",
+  "c": "ES",
+  "ko": "마드리드 역사박물관",
+  "en": "Madrid History Museum",
+  "n": 10
+ },
+ {
+  "k": "basilicaholytrinit",
+  "q": "Q1062114",
+  "c": "IT",
+  "ko": "산타 트리니타 성당",
+  "en": "Basilica of the Holy Trinity",
+  "n": 11
+ },
+ {
+  "k": "dumbartonoaks",
+  "q": "Q1264942",
+  "c": "US",
+  "ko": "Dumbarton Oaks",
+  "en": "Dumbarton Oaks",
+  "n": 9
+ },
+ {
+  "k": "palazzopallavicini",
+  "q": "Q1817132",
+  "c": "IT",
+  "ko": "Palazzo Pallavicini-Rospigliosi",
+  "en": "Palazzo Pallavicini-Rospigliosi",
+  "n": 9
+ },
+ {
+  "k": "santamariainvallic",
+  "q": "Q2031901",
+  "c": "IT",
+  "ko": "Santa Maria in Vallicella",
+  "en": "Santa Maria in Vallicella",
+  "n": 9
+ },
+ {
+  "k": "arpbahnhofrolandse",
+  "q": "Q698582",
+  "c": "DE",
+  "ko": "Arp Museum Bahnhof Rolandseck",
+  "en": "Arp Museum Bahnhof Rolandseck",
+  "n": 9
+ },
+ {
+  "k": "moscowconservatory",
+  "q": "Q215539",
+  "c": "RU",
+  "ko": "모스크바 음악원",
+  "en": "Moscow Conservatory",
+  "n": 9
+ },
+ {
+  "k": "winterthurgardenan",
+  "q": "Q2585168",
+  "c": "US",
+  "ko": "Winterthur Museum, Garden and Library",
+  "en": "Winterthur Museum, Garden and Library",
+  "n": 9
+ },
+ {
+  "k": "annebeaujeu",
+  "q": "Q3329056",
+  "c": "FR",
+  "ko": "Musée Anne de Beaujeu",
+  "en": "Musée Anne de Beaujeu",
+  "n": 9
+ },
+ {
+  "k": "churchsaintsnazari",
+  "q": "Q3682863",
+  "c": "IT",
+  "ko": "Church of Saints Nazarius and Celsus",
+  "en": "Church of Saints Nazarius and Celsus",
+  "n": 9
+ },
+ {
+  "k": "palazzopianetti",
+  "q": "Q3890649",
+  "c": "IT",
+  "ko": "Palazzo Pianetti",
+  "en": "Palazzo Pianetti",
+  "n": 9
+ },
+ {
+  "k": "malaspinapicture",
+  "q": "Q3905092",
+  "c": "IT",
+  "ko": "Malaspina Picture Gallery",
+  "en": "Malaspina Picture Gallery",
+  "n": 9
+ },
+ {
+  "k": "malaga",
+  "q": "Q4276495",
+  "c": "ES",
+  "ko": "Museo de Málaga",
+  "en": "Museo de Málaga",
+  "n": 9
+ },
+ {
+  "k": "korea",
+  "q": "Q494407",
+  "c": "KR",
+  "ko": "국립중앙박물관",
+  "en": "National Museum of Korea",
+  "n": 9
+ },
+ {
+  "k": "sangiovanniinbrago",
+  "q": "Q521260",
+  "c": "IT",
+  "ko": "San Giovanni in Bragora",
+  "en": "San Giovanni in Bragora",
+  "n": 9
+ },
+ {
+  "k": "bodleianlibrary",
+  "q": "Q82133",
+  "c": "GB",
+  "ko": "보들리 도서관",
+  "en": "Bodleian Library",
+  "n": 9
+ },
+ {
+  "k": "nezu",
+  "q": "Q1047097",
+  "c": "JP",
+  "ko": "네즈 미술관",
+  "en": "Nezu Museum",
+  "n": 8
+ },
+ {
+  "k": "hillwoodestategard",
+  "q": "Q2058611",
+  "c": "US",
+  "ko": "힐우드 박물관",
+  "en": "Hillwood Estate, Museum & Gardens",
+  "n": 8
+ },
+ {
+  "k": "christchurch",
+  "q": "Q5109058",
+  "c": "NZ",
+  "ko": "Christchurch Art Gallery",
+  "en": "Christchurch Art Gallery",
+  "n": 8
+ },
+ {
+  "k": "trevisocathedral",
+  "q": "Q51149",
+  "c": "IT",
+  "ko": "트레비소 대성당",
+  "en": "Treviso Cathedral",
+  "n": 8
+ },
+ {
+  "k": "basilicasantacroce",
+  "q": "Q51177",
+  "c": "IT",
+  "ko": "산타 크로체 성당",
+  "en": "Basilica of Santa Croce",
+  "n": 9
+ },
+ {
+  "k": "santamariasalute",
+  "q": "Q52531",
+  "c": "IT",
+  "ko": "산타 마리아 델라 살루테 성당",
+  "en": "Santa Maria della Salute",
+  "n": 8
+ },
+ {
+  "k": "universalmuseumjoa",
+  "q": "Q623017",
+  "c": "AT",
+  "ko": "Universalmuseum Joanneum",
+  "en": "Universalmuseum Joanneum",
+  "n": 8
+ },
+ {
+  "k": "stpeterschurchleuv",
+  "q": "Q17722",
+  "c": "BE",
+  "ko": "St. Peter's Church, Leuven",
+  "en": "St. Peter's Church, Leuven",
+  "n": 7
+ },
+ {
+  "k": "fundacionlerma",
+  "q": "Q18755349",
+  "c": "ES",
+  "ko": "Museo Fundación Lerma",
+  "en": "Museo Fundación Lerma",
+  "n": 7
+ },
+ {
+  "k": "museumsliverpool",
+  "q": "Q1967497",
+  "c": "GB",
+  "ko": "리버풀 국립박물관",
+  "en": "National Museums Liverpool",
+  "n": 249
+ },
+ {
+  "k": "pinacotecaecivicov",
+  "q": "Q3181094",
+  "c": "IT",
+  "ko": "Pinacoteca e Museo Civico di Volterra",
+  "en": "Pinacoteca e Museo Civico di Volterra",
+  "n": 7
+ },
+ {
+  "k": "santelmomuseoa",
+  "q": "Q3329346",
+  "c": "ES",
+  "ko": "San Telmo Museoa",
+  "en": "San Telmo Museoa",
+  "n": 7
+ },
+ {
+  "k": "legiondhonneur",
+  "q": "Q3329915",
+  "c": "FR",
+  "ko": "Musée de la Légion d'honneur",
+  "en": "Musée de la Légion d'honneur",
+  "n": 7
+ },
+ {
+  "k": "vvvereshchaginmyko",
+  "q": "Q4320542",
+  "c": "UA",
+  "ko": "V. V. Vereshchagin Mykolaiv Art Museum",
+  "en": "V. V. Vereshchagin Mykolaiv Art Museum",
+  "n": 7
+ },
+ {
+  "k": "morgancentre",
+  "q": "Q5244638",
+  "c": "GB",
+  "ko": "De Morgan Centre",
+  "en": "De Morgan Centre",
+  "n": 7
+ },
+ {
+  "k": "patriarca",
+  "q": "Q5484867",
+  "c": "ES",
+  "ko": "Museu del Patriarca",
+  "en": "Museu del Patriarca",
+  "n": 7
+ },
+ {
+  "k": "degliinnocenti",
+  "q": "Q55373729",
+  "c": "IT",
+  "ko": "Museo degli Innocenti",
+  "en": "Museo degli Innocenti",
+  "n": 7
+ },
+ {
+  "k": "sreechitra",
+  "q": "Q7585629",
+  "c": "IN",
+  "ko": "Sree Chitra Art Gallery",
+  "en": "Sree Chitra Art Gallery",
+  "n": 7
+ },
+ {
+  "k": "moa",
+  "q": "Q843638",
+  "c": "JP",
+  "ko": "MOA 미술관",
+  "en": "MOA Museum of Art",
+  "n": 7
+ },
+ {
+  "k": "dukewestminstercol",
+  "q": "Q18588457",
+  "c": "GB",
+  "ko": "Duke of Westminster collection",
+  "en": "Duke of Westminster collection",
+  "n": 6
+ },
+ {
+  "k": "florencecathedral",
+  "q": "Q191739",
+  "c": "IT",
+  "ko": "피렌체 대성당",
+  "en": "Florence Cathedral",
+  "n": 6
+ },
+ {
+  "k": "frenchacademyinrom",
+  "q": "Q337494",
+  "c": "IT",
+  "ko": "로마 아카데미 드 프랑스",
+  "en": "French Academy in Rome",
+  "n": 6
+ },
+ {
+  "k": "civico",
+  "q": "Q3867770",
+  "c": "IT",
+  "ko": "Museo civico",
+  "en": "Museo civico",
+  "n": 6
+ },
+ {
+  "k": "felixnussbaumhaus",
+  "q": "Q444339",
+  "c": "DE",
+  "ko": "Felix Nussbaum Haus",
+  "en": "Felix Nussbaum Haus",
+  "n": 6
+ },
+ {
+  "k": "abbyaldrichrockefe",
+  "q": "Q4664440",
+  "c": "US",
+  "ko": "Abby Aldrich Rockefeller Folk Art Museum",
+  "en": "Abby Aldrich Rockefeller Folk Art Museum",
+  "n": 6
+ },
+ {
+  "k": "makapplied",
+  "q": "Q478455",
+  "c": "AT",
+  "ko": "응용미술관",
+  "en": "MAK – Museum of Applied Arts",
+  "n": 6
+ },
+ {
+  "k": "unitedstatescapito",
+  "q": "Q54109",
+  "c": "US",
+  "ko": "미국 국회의사당",
+  "en": "United States Capitol",
+  "n": 9
+ },
+ {
+  "k": "palazzofarnese",
+  "q": "Q848386",
+  "c": "IT",
+  "ko": "파르네세궁",
+  "en": "Palazzo Farnese",
+  "n": 6
+ },
+ {
+  "k": "hospitalsantacarid",
+  "q": "Q858907",
+  "c": "ES",
+  "ko": "오스피탈 데 라 카리다드",
+  "en": "Hospital de la Santa Caridad",
+  "n": 6
+ },
+ {
+  "k": "palazzomediciricca",
+  "q": "Q911047",
+  "c": "IT",
+  "ko": "메디치 리카르디궁",
+  "en": "Palazzo Medici Riccardi",
+  "n": 10
+ },
+ {
+  "k": "sangiacomodellorio",
+  "q": "Q1150698",
+  "c": "IT",
+  "ko": "San Giacomo dell'Orio",
+  "en": "San Giacomo dell'Orio",
+  "n": 5
+ },
+ {
+  "k": "kasamanichido",
+  "q": "Q11599987",
+  "c": "JP",
+  "ko": "가사마 니치도 미술관",
+  "en": "Kasama Nichidō Museum of Art",
+  "n": 5
+ },
+ {
+  "k": "nara",
+  "q": "Q147312",
+  "c": "JP",
+  "ko": "나라 국립박물관",
+  "en": "Nara National Museum",
+  "n": 5
+ },
+ {
+  "k": "aachencathedraltre",
+  "q": "Q15106167",
+  "c": "DE",
+  "ko": "Aachen Cathedral Treasury",
+  "en": "Aachen Cathedral Treasury",
+  "n": 5
+ },
+ {
+  "k": "santospirito",
+  "q": "Q1519975",
+  "c": "IT",
+  "ko": "산토 스피리토 성당",
+  "en": "Santo Spirito",
+  "n": 5
+ },
+ {
+  "k": "southportcentre",
+  "q": "Q18085746",
+  "c": "GB",
+  "ko": "Southport Arts Centre",
+  "en": "Southport Arts Centre",
+  "n": 5
+ },
+ {
+  "k": "saintcatherinemona",
+  "q": "Q185362",
+  "c": "EG",
+  "ko": "성 카타리나 수도원",
+  "en": "Saint Catherine Monastery",
+  "n": 5
+ },
+ {
+  "k": "collegioalberoni",
+  "q": "Q200736",
+  "c": "IT",
+  "ko": "Collegio Alberoni",
+  "en": "Collegio Alberoni",
+  "n": 5
+ },
+ {
+  "k": "ballarat",
+  "q": "Q2881135",
+  "c": "AU",
+  "ko": "Art Gallery of Ballarat",
+  "en": "Art Gallery of Ballarat",
+  "n": 5
+ },
+ {
+  "k": "riccardogualinocol",
+  "q": "Q3683047",
+  "c": "IT",
+  "ko": "Riccardo Gualino Collection",
+  "en": "Riccardo Gualino Collection",
+  "n": 5
+ },
+ {
+  "k": "palazzodeglialbert",
+  "q": "Q3891172",
+  "c": "IT",
+  "ko": "Palazzo degli Alberti",
+  "en": "Palazzo degli Alberti",
+  "n": 5
+ },
+ {
+  "k": "universitypennsylv",
+  "q": "Q49117",
+  "c": "US",
+  "ko": "펜실베이니아 대학교",
+  "en": "University of Pennsylvania",
+  "n": 5
+ },
+ {
+  "k": "civicosansepolcro",
+  "q": "Q606494",
+  "c": "IT",
+  "ko": "Museo Civico di Sansepolcro",
+  "en": "Museo Civico di Sansepolcro",
+  "n": 5
+ },
+ {
+  "k": "newpalace",
+  "q": "Q677383",
+  "c": "DE",
+  "ko": "New Palace",
+  "en": "New Palace",
+  "n": 5
+ },
+ {
+  "k": "palacefontaineblea",
+  "q": "Q201428",
+  "c": "FR",
+  "ko": "퐁텐블로궁",
+  "en": "Palace of Fontainebleau",
+  "n": 4
+ },
+ {
+  "k": "chiesagesuedeisant",
+  "q": "Q1072498",
+  "c": "IT",
+  "ko": "Chiesa del Gesù e dei Santi Ambrogio e Andrea",
+  "en": "Chiesa del Gesù e dei Santi Ambrogio e Andrea",
+  "n": 4
+ },
+ {
+  "k": "villafarnesina",
+  "q": "Q1126723",
+  "c": "IT",
+  "ko": "빌라 파르네시나",
+  "en": "Villa Farnesina",
+  "n": 4
+ },
+ {
+  "k": "strossmayeroldmast",
+  "q": "Q1258421",
+  "c": "HR",
+  "ko": "Strossmayer Gallery of Old Masters",
+  "en": "Strossmayer Gallery of Old Masters",
+  "n": 4
+ },
+ {
+  "k": "regionalesicilia",
+  "q": "Q15111157",
+  "c": "IT",
+  "ko": "Galleria Regionale della Sicilia",
+  "en": "Galleria Regionale della Sicilia",
+  "n": 4
+ },
+ {
+  "k": "culturalhistorymag",
+  "q": "Q1673285",
+  "c": "DE",
+  "ko": "Museum of Cultural History Magdeburg",
+  "en": "Museum of Cultural History Magdeburg",
+  "n": 4
+ },
+ {
+  "k": "panoramamesdag",
+  "q": "Q1738414",
+  "c": "",
+  "ko": "Panorama Mesdag",
+  "en": "Panorama Mesdag",
+  "n": 4
+ },
+ {
+  "k": "pistoiacathedral",
+  "q": "Q2557858",
+  "c": "IT",
+  "ko": "Pistoia Cathedral",
+  "en": "Pistoia Cathedral",
+  "n": 4
+ },
+ {
+  "k": "santamariadeicarmi",
+  "q": "Q2780025",
+  "c": "IT",
+  "ko": "Santa Maria dei Carmini",
+  "en": "Santa Maria dei Carmini",
+  "n": 4
+ },
+ {
+  "k": "saintgermainenlaye",
+  "q": "Q3330662",
+  "c": "FR",
+  "ko": "Saint-Germain-en-Laye Civic Museum",
+  "en": "Saint-Germain-en-Laye Civic Museum",
+  "n": 4
+ },
+ {
+  "k": "villacolloredomels",
+  "q": "Q3867781",
+  "c": "IT",
+  "ko": "Villa Colloredo Mels Museum",
+  "en": "Villa Colloredo Mels Museum",
+  "n": 4
+ },
+ {
+  "k": "pontificiosantacas",
+  "q": "Q54854692",
+  "c": "IT",
+  "ko": "Museo pontificio della Santa Casa",
+  "en": "Museo pontificio della Santa Casa",
+  "n": 4
+ },
+ {
+  "k": "santafelicita",
+  "q": "Q1069665",
+  "c": "IT",
+  "ko": "Santa Felicita",
+  "en": "Santa Felicita",
+  "n": 6
+ },
+ {
+  "k": "santagostino",
+  "q": "Q1102250",
+  "c": "IT",
+  "ko": "Sant'Agostino",
+  "en": "Sant'Agostino",
+  "n": 3
+ },
+ {
+  "k": "pozzuolicathedral",
+  "q": "Q1239998",
+  "c": "IT",
+  "ko": "Pozzuoli Cathedral",
+  "en": "Pozzuoli Cathedral",
+  "n": 3
+ },
+ {
+  "k": "palazzoducale",
+  "q": "Q1267721",
+  "c": "IT",
+  "ko": "Palazzo Ducale",
+  "en": "Palazzo Ducale",
+  "n": 3
+ },
+ {
+  "k": "cathedralholysavio",
+  "q": "Q1539168",
+  "c": "FR",
+  "ko": "Cathedral of the Holy Saviour",
+  "en": "Cathedral of the Holy Saviour",
+  "n": 3
+ },
+ {
+  "k": "basilicasantandrea",
+  "q": "Q1581882",
+  "c": "IT",
+  "ko": "Basilica of Sant'Andrea",
+  "en": "Basilica of Sant'Andrea",
+  "n": 3
+ },
+ {
+  "k": "coleccionsantander",
+  "q": "Q16537483",
+  "c": "ES",
+  "ko": "Colección Santander",
+  "en": "Colección Santander",
+  "n": 3
+ },
+ {
+  "k": "walkercenter",
+  "q": "Q1851516",
+  "c": "US",
+  "ko": "워커 아트 센터",
+  "en": "Walker Art Center",
+  "n": 3
+ },
+ {
+  "k": "civicpalazzobuonac",
+  "q": "Q21551998",
+  "c": "IT",
+  "ko": "Civic Museum of Palazzo Buonaccorsi",
+  "en": "Civic Museum of Palazzo Buonaccorsi",
+  "n": 31
+ },
+ {
+  "k": "hospitaltavera",
+  "q": "Q2037255",
+  "c": "ES",
+  "ko": "Hospital de Tavera",
+  "en": "Hospital de Tavera",
+  "n": 3
+ },
+ {
+  "k": "quirinalpalace",
+  "q": "Q223079",
+  "c": "IT",
+  "ko": "퀴리날레궁",
+  "en": "Quirinal Palace",
+  "n": 3
+ },
+ {
+  "k": "kitakyushumunicipa",
+  "q": "Q3297769",
+  "c": "JP",
+  "ko": "기타큐슈 시립 미술관",
+  "en": "Kitakyushu Municipal Museum of Art",
+  "n": 3
+ },
+ {
+  "k": "collegeourladyanti",
+  "q": "Q3300602",
+  "c": "ES",
+  "ko": "College of Our Lady of Antigua",
+  "en": "College of Our Lady of Antigua",
+  "n": 3
+ },
+ {
+  "k": "faure",
+  "q": "Q3329161",
+  "c": "FR",
+  "ko": "포르 미술관",
+  "en": "Faure Museum",
+  "n": 3
+ },
+ {
+  "k": "yamatobunkakan",
+  "q": "Q3329639",
+  "c": "JP",
+  "ko": "Museum Yamato Bunkakan",
+  "en": "Museum Yamato Bunkakan",
+  "n": 3
+ },
+ {
+  "k": "dhistoirevilleetpa",
+  "q": "Q3330540",
+  "c": "FR",
+  "ko": "Musée d’Histoire de la Ville et du Pays Malouin",
+  "en": "Musée d’Histoire de la Ville et du Pays Malouin",
+  "n": 3
+ },
+ {
+  "k": "sansilvestrovenice",
+  "q": "Q3585383",
+  "c": "IT",
+  "ko": "San Silvestro, Venice",
+  "en": "San Silvestro, Venice",
+  "n": 3
+ },
+ {
+  "k": "delloperaduomo",
+  "q": "Q3825655",
+  "c": "IT",
+  "ko": "Museo dell'Opera del Duomo",
+  "en": "Museo dell'Opera del Duomo",
+  "n": 3
+ },
+ {
+  "k": "palazzobellomo",
+  "q": "Q3868176",
+  "c": "IT",
+  "ko": "Palazzo Bellomo Museum",
+  "en": "Palazzo Bellomo Museum",
+  "n": 3
+ },
+ {
+  "k": "pinacotecacivicafe",
+  "q": "Q3905099",
+  "c": "IT",
+  "ko": "Pinacoteca civica (Fermo)",
+  "en": "Pinacoteca civica (Fermo)",
+  "n": 3
+ },
+ {
+  "k": "pinacotecacomunale",
+  "q": "Q3905109",
+  "c": "IT",
+  "ko": "Pinacoteca comunale",
+  "en": "Pinacoteca comunale",
+  "n": 3
+ },
+ {
+  "k": "antikensammlungber",
+  "q": "Q475394",
+  "c": "DE",
+  "ko": "Antikensammlung Berlin",
+  "en": "Antikensammlung Berlin",
+  "n": 3
+ },
+ {
+  "k": "autryamericanwest",
+  "q": "Q4827110",
+  "c": "US",
+  "ko": "Autry Museum of the American West",
+  "en": "Autry Museum of the American West",
+  "n": 3
+ },
+ {
+  "k": "realesalcazares",
+  "q": "Q498261",
+  "c": "ES",
+  "ko": "알카사르",
+  "en": "Reales Alcázares",
+  "n": 3
+ },
+ {
+  "k": "basilicasanlorenzo",
+  "q": "Q573881",
+  "c": "IT",
+  "ko": "산 로렌초 성당",
+  "en": "Basilica of San Lorenzo",
+  "n": 3
+ },
+ {
+  "k": "churchgesu",
+  "q": "Q719794",
+  "c": "IT",
+  "ko": "일 제수 성당",
+  "en": "Church of the Gesù",
+  "n": 3
+ },
+ {
+  "k": "sheldon",
+  "q": "Q7493533",
+  "c": "US",
+  "ko": "Sheldon Museum of Art",
+  "en": "Sheldon Museum of Art",
+  "n": 3
+ },
+ {
+  "k": "santamariasopramin",
+  "q": "Q823685",
+  "c": "IT",
+  "ko": "산타 마리아 소프라 미네르바 성당",
+  "en": "Santa Maria sopra Minerva",
+  "n": 3
+ },
+ {
+  "k": "unitedstatescapito2",
+  "q": "Q918708",
+  "c": "US",
+  "ko": "United States Capitol rotunda",
+  "en": "United States Capitol rotunda",
+  "n": 3
+ },
+ {
+  "k": "anholtcastle",
+  "q": "Q880788",
+  "c": "DE",
+  "ko": "Anholt Castle",
+  "en": "Anholt Castle",
+  "n": 2
+ },
+ {
+  "k": "mattiolicollection",
+  "q": "Q56324701",
+  "c": "IT",
+  "ko": "Mattioli Collection",
+  "en": "Mattioli Collection",
+  "n": 2
+ },
+ {
+  "k": "storkyrkan",
+  "q": "Q1133075",
+  "c": "SE",
+  "ko": "스톡홀름 대성당",
+  "en": "Storkyrkan",
+  "n": 2
+ },
+ {
+  "k": "domecastlefrancove",
+  "q": "Q1236579",
+  "c": "IT",
+  "ko": "Dome of Castlefranco Veneto",
+  "en": "Dome of Castlefranco Veneto",
+  "n": 2
+ },
+ {
+  "k": "hospicesbeaune",
+  "q": "Q1284848",
+  "c": "FR",
+  "ko": "Hospices de Beaune",
+  "en": "Hospices de Beaune",
+  "n": 2
+ },
+ {
+  "k": "villamedici",
+  "q": "Q1362663",
+  "c": "IT",
+  "ko": "빌라 메디치",
+  "en": "Villa Medici",
+  "n": 2
+ },
+ {
+  "k": "churchsantospirito",
+  "q": "Q18607685",
+  "c": "IT",
+  "ko": "Church of Santo Spirito, Bergamo",
+  "en": "Church of Santo Spirito, Bergamo",
+  "n": 2
+ },
+ {
+  "k": "palazzodaccursio",
+  "q": "Q2267154",
+  "c": "IT",
+  "ko": "Palazzo d'Accursio",
+  "en": "Palazzo d'Accursio",
+  "n": 2
+ },
+ {
+  "k": "polishlibraryinpar",
+  "q": "Q2357520",
+  "c": "FR",
+  "ko": "Polish Library in Paris",
+  "en": "Polish Library in Paris",
+  "n": 2
+ },
+ {
+  "k": "sangiacomomaggiore",
+  "q": "Q2446870",
+  "c": "IT",
+  "ko": "San Giacomo Maggiore",
+  "en": "San Giacomo Maggiore",
+  "n": 2
+ },
+ {
+  "k": "royalbasilicasaint",
+  "q": "Q2473884",
+  "c": "ES",
+  "ko": "Royal Basilica of Saint Francis the Great",
+  "en": "Royal Basilica of Saint Francis the Great",
+  "n": 2
+ },
+ {
+  "k": "freiburgminster",
+  "q": "Q250212",
+  "c": "DE",
+  "ko": "프라이부르크 대성당",
+  "en": "Freiburg Minster",
+  "n": 2
+ },
+ {
+  "k": "gallerieditalia",
+  "q": "Q27237661",
+  "c": "IT",
+  "ko": "Gallerie d'Italia",
+  "en": "Gallerie d'Italia",
+  "n": 2
+ },
+ {
+  "k": "girolamini",
+  "q": "Q289414",
+  "c": "IT",
+  "ko": "Girolamini",
+  "en": "Girolamini",
+  "n": 15
+ },
+ {
+  "k": "hearstcastle",
+  "q": "Q378143",
+  "c": "US",
+  "ko": "허스트 캐슬",
+  "en": "Hearst Castle",
+  "n": 2
+ },
+ {
+  "k": "montaubancathedral",
+  "q": "Q2942243",
+  "c": "FR",
+  "ko": "Montauban Cathedral",
+  "en": "Montauban Cathedral",
+  "n": 2
+ },
+ {
+  "k": "santamarianuovachu",
+  "q": "Q2963491",
+  "c": "IT",
+  "ko": "Santa Maria Nuova church",
+  "en": "Santa Maria Nuova church",
+  "n": 2
+ },
+ {
+  "k": "beethovenhouse",
+  "q": "Q318084",
+  "c": "DE",
+  "ko": "베토벤 하우스",
+  "en": "Beethoven House",
+  "n": 2
+ },
+ {
+  "k": "sanlorenzo",
+  "q": "Q3668253",
+  "c": "IT",
+  "ko": "San Lorenzo",
+  "en": "San Lorenzo",
+  "n": 2
+ },
+ {
+  "k": "churchsanniccolool",
+  "q": "Q3671413",
+  "c": "IT",
+  "ko": "Church of San Niccolò Oltrarno",
+  "en": "Church of San Niccolò Oltrarno",
+  "n": 2
+ },
+ {
+  "k": "santandrea",
+  "q": "Q3672381",
+  "c": "IT",
+  "ko": "Sant’Andrea",
+  "en": "Sant’Andrea",
+  "n": 2
+ },
+ {
+  "k": "civicmuseumsandhis",
+  "q": "Q3678767",
+  "c": "IT",
+  "ko": "Civic Museums and Gallery of History and Art",
+  "en": "Civic Museums and Gallery of History and Art",
+  "n": 6
+ },
+ {
+  "k": "masaccio",
+  "q": "Q3867618",
+  "c": "IT",
+  "ko": "Masaccio Museum",
+  "en": "Masaccio Museum",
+  "n": 2
+ },
+ {
+  "k": "royalchapeltreasur",
+  "q": "Q3931105",
+  "c": "IT",
+  "ko": "Royal Chapel of the Treasure of San Gennaro",
+  "en": "Royal Chapel of the Treasure of San Gennaro",
+  "n": 2
+ },
+ {
+  "k": "vejle",
+  "q": "Q4121091",
+  "c": "DK",
+  "ko": "Vejle Museum of Art",
+  "en": "Vejle Museum of Art",
+  "n": 2
+ },
+ {
+  "k": "toyotamunicipal",
+  "q": "Q4461630",
+  "c": "JP",
+  "ko": "도요타시 미술관",
+  "en": "Toyota Municipal Museum of Art",
+  "n": 2
+ },
+ {
+  "k": "igesuiti",
+  "q": "Q46592",
+  "c": "IT",
+  "ko": "I Gesuiti",
+  "en": "I Gesuiti",
+  "n": 2
+ },
+ {
+  "k": "conventsandomenico",
+  "q": "Q474122",
+  "c": "IT",
+  "ko": "convent of San Domenico",
+  "en": "convent of San Domenico",
+  "n": 2
+ },
+ {
+  "k": "churchsanginesarle",
+  "q": "Q5117097",
+  "c": "ES",
+  "ko": "Church of San Ginés de Arlés",
+  "en": "Church of San Ginés de Arlés",
+  "n": 2
+ },
+ {
+  "k": "catedralicio",
+  "q": "Q52162486",
+  "c": "ES",
+  "ko": "Museo Catedralicio",
+  "en": "Museo Catedralicio",
+  "n": 2
+ },
+ {
+  "k": "diocesanoarteantig",
+  "q": "Q6033277",
+  "c": "ES",
+  "ko": "Museo Diocesano de Arte Antiguo (Sigüenza)",
+  "en": "Museo Diocesano de Arte Antiguo (Sigüenza)",
+  "n": 2
+ },
+ {
+  "k": "mumok",
+  "q": "Q689951",
+  "c": "AT",
+  "ko": "Mumok",
+  "en": "Mumok",
+  "n": 2
+ },
+ {
+  "k": "cedarrapids",
+  "q": "Q6940755",
+  "c": "US",
+  "ko": "Museum of Art Cedar Rapids",
+  "en": "Museum of Art Cedar Rapids",
+  "n": 2
+ },
+ {
+  "k": "santamariadeiservi",
+  "q": "Q810072",
+  "c": "IT",
+  "ko": "Santa Maria dei Servi",
+  "en": "Santa Maria dei Servi",
+  "n": 2
+ },
+ {
+  "k": "athleticclub",
+  "q": "Q8687",
+  "c": "ES",
+  "ko": "아틀레틱 빌바오",
+  "en": "Athletic Club",
+  "n": 2
+ },
+ {
+  "k": "palaciolascortes",
+  "q": "Q9054619",
+  "c": "ES",
+  "ko": "Palacio de las Cortes",
+  "en": "Palacio de las Cortes",
+  "n": 2
+ },
+ {
+  "k": "sangiovannigrisost",
+  "q": "Q915746",
+  "c": "IT",
+  "ko": "San Giovanni Grisostomo, Venice",
+  "en": "San Giovanni Grisostomo, Venice",
+  "n": 2
+ },
+ {
+  "k": "scrovegnichapel",
+  "q": "Q963954",
+  "c": "IT",
+  "ko": "스크로베니 예배당",
+  "en": "Scrovegni Chapel",
+  "n": 2
+ },
+ {
+  "k": "bankspain",
+  "q": "Q789966",
+  "c": "ES",
+  "ko": "스페인 은행",
+  "en": "Bank of Spain",
+  "n": 1
+ },
+ {
+  "k": "ancientpeoplelucan",
+  "q": "Q18819006",
+  "c": "IT",
+  "ko": "Museum of the Ancient People of Lucania",
+  "en": "Museum of the Ancient People of Lucania",
+  "n": 1
+ },
+ {
+  "k": "basilicasantamaria",
+  "q": "Q1021897",
+  "c": "IT",
+  "ko": "basilica di Santa Maria dei Servi",
+  "en": "basilica di Santa Maria dei Servi",
+  "n": 1
+ },
+ {
+  "k": "sansalvador",
+  "q": "Q1028202",
+  "c": "IT",
+  "ko": "San Salvador",
+  "en": "San Salvador",
+  "n": 1
+ },
+ {
+  "k": "gedungagung",
+  "q": "Q11195720",
+  "c": "ID",
+  "ko": "Gedung Agung",
+  "en": "Gedung Agung",
+  "n": 1
+ },
+ {
+  "k": "perugiacathedral",
+  "q": "Q1132503",
+  "c": "IT",
+  "ko": "Perugia Cathedral",
+  "en": "Perugia Cathedral",
+  "n": 1
+ },
+ {
+  "k": "hikonecastle",
+  "q": "Q11487933",
+  "c": "JP",
+  "ko": "Hikone Castle Museum",
+  "en": "Hikone Castle Museum",
+  "n": 1
+ },
+ {
+  "k": "archdiocesaninwroc",
+  "q": "Q11786913",
+  "c": "PL",
+  "ko": "Archdiocesan Museum in Wrocław",
+  "en": "Archdiocesan Museum in Wrocław",
+  "n": 1
+ },
+ {
+  "k": "diecezjalnewsiedlc",
+  "q": "Q11786951",
+  "c": "PL",
+  "ko": "Muzeum Diecezjalne w Siedlcach",
+  "en": "Muzeum Diecezjalne w Siedlcach",
+  "n": 1
+ },
+ {
+  "k": "dominicanconvent",
+  "q": "Q1237974",
+  "c": "FR",
+  "ko": "Dominican Convent",
+  "en": "Dominican Convent",
+  "n": 1
+ },
+ {
+  "k": "syrosagiosnikolaos",
+  "q": "Q12878117",
+  "c": "GR",
+  "ko": "Syros, Agios Nikolaos in Ermoupolis",
+  "en": "Syros, Agios Nikolaos in Ermoupolis",
+  "n": 1
+ },
+ {
+  "k": "haussnersrestauran",
+  "q": "Q5682854",
+  "c": "US",
+  "ko": "Haussner's Restaurant",
+  "en": "Haussner's Restaurant",
+  "n": 1
+ },
+ {
+  "k": "cambraicathedral",
+  "q": "Q1344947",
+  "c": "FR",
+  "ko": "Cambrai Cathedral",
+  "en": "Cambrai Cathedral",
+  "n": 1
+ },
+ {
+  "k": "basilicasaintaugus",
+  "q": "Q1424095",
+  "c": "IT",
+  "ko": "Basilica of Saint Augustine in Campo Marzio",
+  "en": "Basilica of Saint Augustine in Campo Marzio",
+  "n": 1
+ },
+ {
+  "k": "valenciacathedral",
+  "q": "Q1466926",
+  "c": "ES",
+  "ko": "발렌시아 대성당",
+  "en": "Valencia Cathedral",
+  "n": 1
+ },
+ {
+  "k": "santamariapieve",
+  "q": "Q1475948",
+  "c": "IT",
+  "ko": "Santa Maria della Pieve",
+  "en": "Santa Maria della Pieve",
+  "n": 1
+ },
+ {
+  "k": "churchstvincent",
+  "q": "Q15953985",
+  "c": "FR",
+  "ko": "Church of St Vincent",
+  "en": "Church of St Vincent",
+  "n": 1
+ },
+ {
+  "k": "churchstvincent2",
+  "q": "Q15954062",
+  "c": "FR",
+  "ko": "Church of St Vincent",
+  "en": "Church of St Vincent",
+  "n": 1
+ },
+ {
+  "k": "santamariacarita",
+  "q": "Q17051134",
+  "c": "IT",
+  "ko": "Santa Maria della Carità",
+  "en": "Santa Maria della Carità",
+  "n": 1
+ },
+ {
+  "k": "ryokoin",
+  "q": "Q17214048",
+  "c": "JP",
+  "ko": "Ryōkō-in",
+  "en": "Ryōkō-in",
+  "n": 1
+ },
+ {
+  "k": "casaperezgaldos",
+  "q": "Q17612354",
+  "c": "ES",
+  "ko": "Casa-Museo Pérez Galdós",
+  "en": "Casa-Museo Pérez Galdós",
+  "n": 1
+ },
+ {
+  "k": "basilicasanzeno",
+  "q": "Q1763642",
+  "c": "IT",
+  "ko": "Basilica of San Zeno",
+  "en": "Basilica of San Zeno",
+  "n": 1
+ },
+ {
+  "k": "newvalamo",
+  "q": "Q1776224",
+  "c": "FI",
+  "ko": "New Valamo",
+  "en": "New Valamo",
+  "n": 1
+ },
+ {
+  "k": "tolgamonastery",
+  "q": "Q1776349",
+  "c": "RU",
+  "ko": "Tolga monastery",
+  "en": "Tolga monastery",
+  "n": 1
+ },
+ {
+  "k": "churchsantamariaan",
+  "q": "Q18607277",
+  "c": "ES",
+  "ko": "Church of Santa María, Andújar",
+  "en": "Church of Santa María, Andújar",
+  "n": 1
+ },
+ {
+  "k": "churchstsvincentan",
+  "q": "Q18607689",
+  "c": "IT",
+  "ko": "Church of Sts Vincent and Alexander, Ponteranica",
+  "en": "Church of Sts Vincent and Alexander, Ponteranica",
+  "n": 1
+ },
+ {
+  "k": "forpeaceandnonviol",
+  "q": "Q18704624",
+  "c": "",
+  "ko": "Museum for Peace and Nonviolence",
+  "en": "Museum for Peace and Nonviolence",
+  "n": 1
+ },
+ {
+  "k": "long",
+  "q": "Q18712414",
+  "c": "CN",
+  "ko": "Long Museum",
+  "en": "Long Museum",
+  "n": 3
+ },
+ {
+  "k": "chiesasandomenico",
+  "q": "Q18761099",
+  "c": "IT",
+  "ko": "Chiesa di San Domenico",
+  "en": "Chiesa di San Domenico",
+  "n": 1
+ },
+ {
+  "k": "palapollaiolo",
+  "q": "Q18809776",
+  "c": "IT",
+  "ko": "Museo Pala del Pollaiolo",
+  "en": "Museo Pala del Pollaiolo",
+  "n": 1
+ },
+ {
+  "k": "chiesasantamariapi",
+  "q": "Q18814784",
+  "c": "IT",
+  "ko": "chiesa di Santa Maria della Pietà in Telusiano",
+  "en": "chiesa di Santa Maria della Pietà in Telusiano",
+  "n": 1
+ },
+ {
+  "k": "chiesasanbernardin",
+  "q": "Q18889586",
+  "c": "IT",
+  "ko": "chiesa di San Bernardino in Pignolo",
+  "en": "chiesa di San Bernardino in Pignolo",
+  "n": 1
+ },
+ {
+  "k": "albania",
+  "q": "Q1968108",
+  "c": "AL",
+  "ko": "국립미술관",
+  "en": "National Art Gallery of Albania",
+  "n": 1
+ },
+ {
+  "k": "brancaccichapel",
+  "q": "Q1996075",
+  "c": "IT",
+  "ko": "Brancacci Chapel",
+  "en": "Brancacci Chapel",
+  "n": 1
+ },
+ {
+  "k": "sandomenico",
+  "q": "Q20155948",
+  "c": "IT",
+  "ko": "San Domenico",
+  "en": "San Domenico",
+  "n": 1
+ },
+ {
+  "k": "palazzorovere",
+  "q": "Q2047551",
+  "c": "IT",
+  "ko": "Palazzo Della Rovere",
+  "en": "Palazzo Della Rovere",
+  "n": 1
+ },
+ {
+  "k": "marienkirche",
+  "q": "Q205625",
+  "c": "DE",
+  "ko": "Marienkirche",
+  "en": "Marienkirche",
+  "n": 1
+ },
+ {
+  "k": "lythamstannescolle",
+  "q": "Q20709557",
+  "c": "GB",
+  "ko": "Lytham St Annes Art Collection",
+  "en": "Lytham St Annes Art Collection",
+  "n": 1
+ },
+ {
+  "k": "diocesanbrno",
+  "q": "Q22915130",
+  "c": "CZ",
+  "ko": "Diocesan museum Brno",
+  "en": "Diocesan museum Brno",
+  "n": 1
+ },
+ {
+  "k": "clintonpresidentia",
+  "q": "Q2301926",
+  "c": "US",
+  "ko": "Clinton Presidential Center",
+  "en": "Clinton Presidential Center",
+  "n": 1
+ },
+ {
+  "k": "villaludovisi",
+  "q": "Q2413439",
+  "c": "IT",
+  "ko": "Villa Ludovisi",
+  "en": "Villa Ludovisi",
+  "n": 2
+ },
+ {
+  "k": "stjohnschurchdessa",
+  "q": "Q24620799",
+  "c": "DE",
+  "ko": "St. John's Church (Dessau)",
+  "en": "St. John's Church (Dessau)",
+  "n": 1
+ },
+ {
+  "k": "santagostinocremon",
+  "q": "Q24882660",
+  "c": "IT",
+  "ko": "Sant'Agostino, Cremona",
+  "en": "Sant'Agostino, Cremona",
+  "n": 1
+ },
+ {
+  "k": "sanlorenzosansepol",
+  "q": "Q25112708",
+  "c": "IT",
+  "ko": "San Lorenzo, Sansepolcro",
+  "en": "San Lorenzo, Sansepolcro",
+  "n": 1
+ },
+ {
+  "k": "contemporaryuniver",
+  "q": "Q2557770",
+  "c": "BR",
+  "ko": "Museum of Contemporary Art of the University of São Paulo",
+  "en": "Museum of Contemporary Art of the University of São Paulo",
+  "n": 1
+ },
+ {
+  "k": "naplescathedral",
+  "q": "Q256486",
+  "c": "IT",
+  "ko": "나폴리 대성당",
+  "en": "Naples Cathedral",
+  "n": 1
+ },
+ {
+  "k": "stcyrilschurch",
+  "q": "Q2660180",
+  "c": "UA",
+  "ko": "St. Cyril's Church",
+  "en": "St. Cyril's Church",
+  "n": 1
+ },
+ {
+  "k": "santamariaaddolora",
+  "q": "Q27676006",
+  "c": "IT",
+  "ko": "Santa Maria Addolorata",
+  "en": "Santa Maria Addolorata",
+  "n": 1
+ },
+ {
+  "k": "churchsaintmartin",
+  "q": "Q27959405",
+  "c": "BE",
+  "ko": "Church of Saint Martin",
+  "en": "Church of Saint Martin",
+  "n": 1
+ },
+ {
+  "k": "stpeteramperlach",
+  "q": "Q2801585",
+  "c": "DE",
+  "ko": "St. Peter am Perlach",
+  "en": "St. Peter am Perlach",
+  "n": 1
+ },
+ {
+  "k": "palazzogrimanisant",
+  "q": "Q2898082",
+  "c": "IT",
+  "ko": "Palazzo Grimani di Santa Maria Formosa",
+  "en": "Palazzo Grimani di Santa Maria Formosa",
+  "n": 1
+ },
+ {
+  "k": "palenciacathedral",
+  "q": "Q2942521",
+  "c": "ES",
+  "ko": "Palencia Cathedral",
+  "en": "Palencia Cathedral",
+  "n": 1
+ },
+ {
+  "k": "ascolipicenocathed",
+  "q": "Q2942547",
+  "c": "IT",
+  "ko": "Ascoli Piceno Cathedral",
+  "en": "Ascoli Piceno Cathedral",
+  "n": 1
+ },
+ {
+  "k": "orihuelacathedral",
+  "q": "Q2942573",
+  "c": "ES",
+  "ko": "Orihuela Cathedral",
+  "en": "Orihuela Cathedral",
+  "n": 1
+ },
+ {
+  "k": "santacorona",
+  "q": "Q2957156",
+  "c": "IT",
+  "ko": "Santa Corona",
+  "en": "Santa Corona",
+  "n": 1
+ },
+ {
+  "k": "cittapievecocathed",
+  "q": "Q3041407",
+  "c": "IT",
+  "ko": "Città della Pieve Co-Cathedral",
+  "en": "Città della Pieve Co-Cathedral",
+  "n": 1
+ },
+ {
+  "k": "sansepolcrocathedr",
+  "q": "Q3045564",
+  "c": "IT",
+  "ko": "Sansepolcro Cathedral",
+  "en": "Sansepolcro Cathedral",
+  "n": 1
+ },
+ {
+  "k": "brsen",
+  "q": "Q326528",
+  "c": "DK",
+  "ko": "뵈르센",
+  "en": "Børsen",
+  "n": 1
+ },
+ {
+  "k": "maisondernierecart",
+  "q": "Q3279770",
+  "c": "FR",
+  "ko": "Maison de la dernière cartouche",
+  "en": "Maison de la dernière cartouche",
+  "n": 1
+ },
+ {
+  "k": "ovaloffice",
+  "q": "Q338067",
+  "c": "US",
+  "ko": "오벌 오피스",
+  "en": "Oval Office",
+  "n": 1
+ },
+ {
+  "k": "municipalbellasart",
+  "q": "Q3565234",
+  "c": "ES",
+  "ko": "Museo Municipal de Bellas Artes de Santa Cruz de Tenerife",
+  "en": "Museo Municipal de Bellas Artes de Santa Cruz de Tenerife",
+  "n": 1
+ },
+ {
+  "k": "santibartolomeoest",
+  "q": "Q3668086",
+  "c": "IT",
+  "ko": "Santi Bartolomeo e Stefano",
+  "en": "Santi Bartolomeo e Stefano",
+  "n": 1
+ },
+ {
+  "k": "sanmartino",
+  "q": "Q3671066",
+  "c": "IT",
+  "ko": "San Martino",
+  "en": "San Martino",
+  "n": 1
+ },
+ {
+  "k": "sanmichelevisdomin",
+  "q": "Q3671342",
+  "c": "IT",
+  "ko": "San Michele Visdomini",
+  "en": "San Michele Visdomini",
+  "n": 1
+ },
+ {
+  "k": "asoloduomo",
+  "q": "Q3716330",
+  "c": "IT",
+  "ko": "Asolo Duomo",
+  "en": "Asolo Duomo",
+  "n": 1
+ },
+ {
+  "k": "delloperaduomo2",
+  "q": "Q3868002",
+  "c": "IT",
+  "ko": "Museo dell'Opera del Duomo",
+  "en": "Museo dell'Opera del Duomo",
+  "n": 1
+ },
+ {
+  "k": "basilicasantamaria2",
+  "q": "Q3868055",
+  "c": "IT",
+  "ko": "Museo della Basilica di Santa Maria delle Grazie",
+  "en": "Museo della Basilica di Santa Maria delle Grazie",
+  "n": 1
+ },
+ {
+  "k": "palazzocattaneoado",
+  "q": "Q3889823",
+  "c": "IT",
+  "ko": "Palazzo Cattaneo Adorno",
+  "en": "Palazzo Cattaneo Adorno",
+  "n": 1
+ },
+ {
+  "k": "palazzogiulirossel",
+  "q": "Q3890226",
+  "c": "IT",
+  "ko": "Palazzo Giuli Rosselmini Gualandi",
+  "en": "Palazzo Giuli Rosselmini Gualandi",
+  "n": 1
+ },
+ {
+  "k": "rectorysaintsmicha",
+  "q": "Q3923979",
+  "c": "IT",
+  "ko": "Rectory of Saints Michael and Francis",
+  "en": "Rectory of Saints Michael and Francis",
+  "n": 1
+ },
+ {
+  "k": "koreauniversity",
+  "q": "Q39997",
+  "c": "KR",
+  "ko": "고려대학교",
+  "en": "Korea University",
+  "n": 1
+ },
+ {
+  "k": "dongauniversity",
+  "q": "Q626783",
+  "c": "KR",
+  "ko": "동아대학교",
+  "en": "Dong-A University",
+  "n": 1
+ },
+ {
+  "k": "volgogradpanorama",
+  "q": "Q4439206",
+  "c": "RU",
+  "ko": "Volgograd Panorama Museum",
+  "en": "Volgograd Panorama Museum",
+  "n": 1
+ },
+ {
+  "k": "knyagininmonastery",
+  "q": "Q4478034",
+  "c": "RU",
+  "ko": "Knyaginin Monastery",
+  "en": "Knyaginin Monastery",
+  "n": 1
+ },
+ {
+  "k": "villatorlonia",
+  "q": "Q474857",
+  "c": "IT",
+  "ko": "Villa Torlonia",
+  "en": "Villa Torlonia",
+  "n": 1
+ },
+ {
+  "k": "statediningroom",
+  "q": "Q554511",
+  "c": "US",
+  "ko": "State Dining Room",
+  "en": "State Dining Room",
+  "n": 1
+ },
+ {
+  "k": "kirannadar",
+  "q": "Q55616048",
+  "c": "IN",
+  "ko": "Kiran Nadar Museum of Art",
+  "en": "Kiran Nadar Museum of Art",
+  "n": 1
+ },
+ {
+  "k": "koscioswbarbarywkr",
+  "q": "Q606281",
+  "c": "PL",
+  "ko": "Kościół św. Barbary w Krakowie",
+  "en": "Kościół św. Barbary w Krakowie",
+  "n": 1
+ },
+ {
+  "k": "forestlawn",
+  "q": "Q60715231",
+  "c": "US",
+  "ko": "Forest Lawn Museum",
+  "en": "Forest Lawn Museum",
+  "n": 1
+ },
+ {
+  "k": "autuncathedral",
+  "q": "Q611944",
+  "c": "FR",
+  "ko": "Autun Cathedral",
+  "en": "Autun Cathedral",
+  "n": 1
+ },
+ {
+  "k": "churchcoronationma",
+  "q": "Q66619465",
+  "c": "DE",
+  "ko": "Church of the Coronation of Mary, Stuppach",
+  "en": "Church of the Coronation of Mary, Stuppach",
+  "n": 1
+ },
+ {
+  "k": "santaluciaalsepolc",
+  "q": "Q667321",
+  "c": "IT",
+  "ko": "Santa Lucia al Sepolcro sanctuary",
+  "en": "Santa Lucia al Sepolcro sanctuary",
+  "n": 1
+ },
+ {
+  "k": "lordspavilion",
+  "q": "Q6678854",
+  "c": "GB",
+  "ko": "Lord's Pavilion",
+  "en": "Lord's Pavilion",
+  "n": 1
+ },
+ {
+  "k": "dochiarioumonaster",
+  "q": "Q726733",
+  "c": "GR",
+  "ko": "도키아리우 수도원",
+  "en": "Dochiariou monastery",
+  "n": 1
+ },
+ {
+  "k": "badiafiorentina",
+  "q": "Q799026",
+  "c": "IT",
+  "ko": "바디아 피오렌티나",
+  "en": "Badia Fiorentina",
+  "n": 1
+ },
+ {
+  "k": "basilicaourladypil",
+  "q": "Q810684",
+  "c": "ES",
+  "ko": "필라르 성모 대성당",
+  "en": "Basilica of Our Lady of the Pillar",
+  "n": 1
+ },
+ {
+  "k": "basilicasandomenic",
+  "q": "Q862602",
+  "c": "IT",
+  "ko": "Basilica of San Domenico",
+  "en": "Basilica of San Domenico",
+  "n": 1
+ }
+]

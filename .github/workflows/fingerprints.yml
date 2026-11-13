@@ -1,0 +1,67 @@
+# Builds the Find-a-painting fingerprints in parallel (2026-11-13). Each shard takes the works whose number modulo 40 is its own,
+# so no two runners ask Wikimedia for the same picture; each stops on its own after five hours. The last job joins them, publishes
+# the index as a release asset, points manifest.json at it, and the workflow ends. Run it again to fill in what a shard left.
+name: fingerprints
+on:
+  push:
+    branches: [main]
+    paths: ['museums.json', 'tools/**', '.github/workflows/fingerprints.yml']
+  workflow_dispatch:
+    inputs:
+      shards: { description: 'number of shards', default: '40' }
+permissions: { contents: write }
+concurrency: { group: fingerprints, cancel-in-progress: false }
+jobs:
+  catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node tools/catalog.mjs
+      - uses: actions/upload-artifact@v4
+        with: { name: works, path: works.tsv }
+  shard:
+    needs: catalog
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix: { k: [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39] }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - uses: actions/download-artifact@v4
+        with: { name: works }
+      - run: N=40 K=${{ matrix.k }} LIMIT=290 node tools/shard.mjs
+      - run: |
+          pip install --quiet torch torchvision --index-url https://download.pytorch.org/whl/cpu
+          pip install --quiet pillow numpy
+          curl -sL -o sscd.pt https://dl.fbaipublicfiles.com/sscd-copy-detection/sscd_disc_mixup.torchscript.pt
+          python tools/embed.py
+      - uses: actions/upload-artifact@v4
+        with: { name: 'emb-${{ matrix.k }}', path: emb.npz }
+  build:
+    needs: shard
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - uses: actions/download-artifact@v4
+        with: { pattern: 'emb-*', path: parts }
+      - env: { GH_TOKEN: '${{ github.token }}' }
+        run: |
+          pip install --quiet numpy
+          mkdir -p prev; gh release download fp -p 'emb-all.npz' -D prev || true
+          TAG=fp python tools/build.py
+          gh release view fp >/dev/null 2>&1 || gh release create fp -t 'Fingerprints' -n 'Find-a-painting index, rebuilt by the fingerprints workflow.'
+          gh release upload fp index-*.qmfx emb-all.npz --clobber
+          for a in $(gh release view fp --json assets -q '.assets[].name' | grep '^index-' | sort | head -n -2); do gh release delete-asset fp "$a" -y; done
+          git config user.name 'fingerprints bot'; git config user.email 'actions@users.noreply.github.com'
+          git add manifest.json; git commit -m "index: $(python -c 'import json;print(json.load(open("manifest.json"))["n"])') works"; git push
