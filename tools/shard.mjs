@@ -19,6 +19,6 @@ async function one([id, f]) {
   }
   bad++;
 }
-async function worker() { while (i < todo.length && Date.now() - t0 < LIMIT * 60000) { const w = todo[i++]; await one(w); } }
+async function worker() { while (i < todo.length && Date.now() - t0 < LIMIT * 60000) { const w = todo[i++]; await one(w); if (i % 250 === 0) console.log(`${i}/${todo.length} tried, ${ok} fetched, ${bad} failed, ${Math.round((Date.now() - t0) / 60000)} min`); } }
 await Promise.all([worker(), worker()]);
 console.log(`shard ${K}/${N}: ${todo.length} works, ${ok} fetched, ${bad} failed, ${todo.length - i} left for the next run, ${Math.round((Date.now() - t0) / 60000)} min`);
