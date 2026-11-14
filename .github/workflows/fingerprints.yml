@@ -71,4 +71,4 @@ jobs:
           gh release upload fp index-*.qmfx emb-all.npz --clobber
           for a in $(gh release view fp --json assets -q '.assets[].name' | grep '^index-' | sort | head -n -2); do gh release delete-asset fp "$a" -y; done
           git config user.name 'fingerprints bot'; git config user.email 'actions@users.noreply.github.com'
-          git add manifest.json; git commit -m "index: $(python -c 'import json;print(json.load(open("manifest.json"))["n"])') works"; git push
+          git add manifest.json; git commit -m "index: $(python -c 'import json;print(json.load(open("manifest.json"))["n"])') works"; git pull --rebase -q; git push
