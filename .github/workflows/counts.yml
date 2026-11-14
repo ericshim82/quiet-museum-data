@@ -1,0 +1,22 @@
+# The source counts, once a day (2026-11-14). Free: this repository is public. Writes srccounts.json and museums.json's counts.
+name: counts
+on:
+  schedule: [{ cron: '17 18 * * *' }]   # 03:17 in Seoul
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['tools/counts.mjs', '.github/workflows/counts.yml']
+permissions: { contents: write }
+jobs:
+  count:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node tools/counts.mjs
+      - run: |
+          git config user.name 'counts bot'; git config user.email 'actions@users.noreply.github.com'
+          git add srccounts.json museums.json
+          git diff --cached --quiet || { git commit -m "counts $(date -u +%F)"; git pull --rebase -q; git push; }

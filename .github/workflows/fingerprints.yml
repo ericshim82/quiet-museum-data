@@ -5,7 +5,7 @@ name: fingerprints
 on:
   push:
     branches: [main]
-    paths: ['museums.json', 'tools/**', '.github/workflows/fingerprints.yml']
+    paths: ['museums.json', 'tools/**', '!tools/counts.mjs', '.github/workflows/fingerprints.yml']
   workflow_dispatch:
     inputs:
       shards: { description: 'number of shards', default: '40' }
