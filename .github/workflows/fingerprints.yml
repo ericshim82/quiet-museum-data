@@ -6,6 +6,9 @@ on:
   push:
     branches: [main]
     paths: ['museums.json', 'tools/**', '!tools/counts.mjs', '.github/workflows/fingerprints.yml']
+  # once a week, so what people found by searching and new paintings on Wikidata come in by themselves
+  schedule:
+    - cron: '17 18 * * 0'
   workflow_dispatch:
     inputs:
       shards: { description: 'number of shards', default: '40' }

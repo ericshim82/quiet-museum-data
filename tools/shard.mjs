@@ -15,6 +15,8 @@ const t0 = Date.now(); let pause = 0, ok = 0, bad = 0, i = 0;
 async function direct(id, u, hop = 0) {
   u = u.replace(/\/full\/(full|max)\/0\/default\.jpg$/, '/full/400,/0/default.jpg');
   const H = { ...UA, Accept: 'image/avif,image/webp,image/*,text/html;q=0.8,*/*;q=0.5' };
+  /* the Art Institute of Chicago asks API users to name themselves in this header (its own API documentation) */
+  if (/artic\.edu/.test(u)) H['AIC-User-Agent'] = 'QuietMuseumIndex (shimply.labs@gmail.com)';
   for (let t = 0; t < 3; t++) {
     let r; try { r = await fetch(u, { headers: H, redirect: 'follow', signal: AbortSignal.timeout(40000) }); } catch (e) { await sleep(2000); continue; }
     if (r.status === 429) { await sleep((+(r.headers.get('retry-after') || 10) + 1) * 1000); continue; }

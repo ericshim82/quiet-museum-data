@@ -52,5 +52,39 @@ for (let i = 0; i < tl.length; i += 50) {
   } catch (e) { console.error('enwiki', e.message); }
   await sleep(300);
 }
+/* the same picture from the other Wikipedias that keep non-free pictures of artworks (2026-11-16, Eric: fill in what the museums'
+   servers would not give, at no cost): Korean, Italian, Portuguese, Russian, Chinese, Vietnamese, Ukrainian, Hebrew, Persian, Arabic */
+const WIKIS = ['ko', 'it', 'pt', 'ru', 'zh', 'vi', 'uk', 'he', 'fa', 'ar'];
+{
+  let rows = [];
+  for (let t = 0; t < 5; t++) {
+    try {
+      const V = WIKIS.map(w => `<https://${w}.wikipedia.org/>`).join(' ');
+      const r = await fetch('https://qlever.dev/api/wikidata', { method: 'POST', headers: { Accept: 'application/sparql-results+json', 'Content-Type': 'application/x-www-form-urlencoded' }, body: 'query=' + encodeURIComponent(PS + `SELECT ?w ?site ?t WHERE { VALUES ?site { ${V} } ?w wdt:P31 wd:Q3305213 . FILTER NOT EXISTS { ?w wdt:P18 ?x } ?a schema:about ?w ; schema:isPartOf ?site ; schema:name ?t }`) });
+      rows = JSON.parse(await r.text()).results.bindings; break;
+    } catch (e) { console.error('retry', e.message); await sleep(15000 * (t + 1)); }
+  }
+  const per = {};
+  for (const x of rows) { const id = x.w.value.split('/').pop(); if (works.has(id)) continue; const w = x.site.value.split('//')[1].split('.')[0]; (per[w] = per[w] || new Map()).set(x.t.value, id); }
+  for (const w of WIKIS) {
+    const m = per[w]; if (!m) continue; const tl = [...m.keys()]; let got = 0;
+    for (let i = 0; i < tl.length; i += 50) {
+      const u = `https://${w}.wikipedia.org/w/api.php?` + new URLSearchParams({ action: 'query', prop: 'pageimages', piprop: 'thumbnail', pithumbsize: '400', pilicense: 'any', titles: tl.slice(i, i + 50).join('|'), format: 'json', redirects: '1' });
+      try {
+        const j = await (await fetch(u, { headers: { 'User-Agent': 'QuietMuseumIndex/1.0 (https://github.com/ericshim82/quiet-museum-data)' } })).json();
+        const back = new Map(); ((j.query || {}).redirects || []).concat((j.query || {}).normalized || []).forEach(r => back.set(r.to, r.from));
+        Object.values((j.query || {}).pages || {}).forEach(p => { const id = m.get(back.get(p.title) || p.title); if (id && p.thumbnail && !works.has(id)) { works.set(id, p.thumbnail.source); got++; } });
+      } catch (e) { console.error(w, e.message); }
+      await sleep(300);
+    }
+    console.log(`${w}.wikipedia: ${m.size} articles, ${got} pictures`);
+  }
+}
+/* and what people found by searching (the server keeps the work and the picture Google found it at) */
+try {
+  const j = await (await fetch('https://quiet-museum.vercel.app/api/identify?learned=1')).json();
+  let n = 0; for (const o of j.learned || []) if (/^Q\d+$/.test(o.q) && !works.has(o.q)) { works.set(o.q, o.img); n++; }
+  console.log('learned from searches', n);
+} catch (e) { console.error('learned', e.message); }
 fs.writeFileSync('works.tsv', [...works].map(([a, b]) => a + '\t' + b).join('\n') + '\n');
 console.log('works', works.size);
