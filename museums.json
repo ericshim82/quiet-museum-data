@@ -13,7 +13,7 @@
   "c": "FR",
   "ko": "오르세 미술관",
   "en": "Musée d'Orsay",
-  "n": 1839
+  "n": 1838
  },
  {
   "k": "orangerie",
@@ -301,7 +301,7 @@
   "c": "GB",
   "ko": "영국 왕실 컬렉션",
   "en": "Royal Collection",
-  "n": 4611
+  "n": 4612
  },
  {
   "k": "npg",
@@ -333,7 +333,7 @@
   "c": "GB",
   "ko": "월리스 컬렉션",
   "en": "Wallace Collection",
-  "n": 653
+  "n": 654
  },
  {
   "k": "franshals",
@@ -469,7 +469,7 @@
   "c": "DE",
   "ko": "함부르크 쿤스트할레",
   "en": "Hamburger Kunsthalle",
-  "n": 435
+  "n": 437
  },
  {
   "k": "stuttgart",
@@ -589,7 +589,7 @@
   "c": "CZ",
   "ko": "프라하 국립미술관",
   "en": "National Gallery Prague",
-  "n": 1245
+  "n": 1250
  },
  {
   "k": "budapest",
@@ -845,7 +845,7 @@
   "c": "GB",
   "ko": "워커 미술관",
   "en": "Walker Art Gallery",
-  "n": 1515
+  "n": 1516
  },
  {
   "k": "cardiff",
@@ -853,7 +853,7 @@
   "c": "GB",
   "ko": "웨일스 국립박물관",
   "en": "National Museum Cardiff",
-  "n": 626
+  "n": 627
  },
  {
   "k": "conde",
@@ -989,7 +989,7 @@
   "c": "DE",
   "ko": "게르만 국립박물관",
   "en": "Germanisches Nationalmuseum",
-  "n": 528
+  "n": 529
  },
  {
   "k": "liechtenstein",
@@ -1141,7 +1141,7 @@
   "c": "US",
   "ko": "카네기 미술관",
   "en": "Carnegie Museum of Art",
-  "n": 144
+  "n": 145
  },
  {
   "k": "kimbell",
@@ -1301,7 +1301,7 @@
   "c": "GB",
   "ko": "코톨드 갤러리",
   "en": "Courtauld Gallery",
-  "n": 383
+  "n": 382
  },
  {
   "k": "royalacad",
@@ -1805,7 +1805,7 @@
   "c": "NO",
   "ko": "오슬로 박물관",
   "en": "Oslo Museum",
-  "n": 460
+  "n": 462
  },
  {
   "k": "histfr",
@@ -1861,7 +1861,7 @@
   "c": "PL",
   "ko": "바르샤바 왕궁",
   "en": "Royal Castle in Warsaw",
-  "n": 244
+  "n": 245
  },
  {
   "k": "antwerpcath",
@@ -1965,7 +1965,7 @@
   "c": "GB",
   "ko": "웨일스 국립 박물관",
   "en": "National Museum Wales",
-  "n": 753
+  "n": 754
  },
  {
   "k": "poznan",
@@ -2965,7 +2965,7 @@
   "c": "GB",
   "ko": "임페리얼 전쟁 박물관",
   "en": "Imperial War Museum London",
-  "n": 94
+  "n": 95
  },
  {
   "k": "pinacotecanazional",
@@ -4093,7 +4093,7 @@
   "c": "IT",
   "ko": "Civic Museums of Padua",
   "en": "Civic Museums of Padua",
-  "n": 16
+  "n": 17
  },
  {
   "k": "adrianobernareggi",
@@ -6109,6 +6109,6 @@
   "c": "VN",
   "ko": "베트남 국립 미술관",
   "en": "Vietnam National Museum of Fine Arts",
-  "n": 14
+  "n": 3
  }
 ]
